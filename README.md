@@ -1,5 +1,7 @@
 # Hello, my name is Kaio Muniz!
 
+[![Overview](https://img.shields.io/badge/-KaioMuniz-blue?style=for-the-badge&logo=github)](https://github.com/KaioMuniz)
+
 🚀 **Java Developer | RESTful APIs & Web Systems**
 
 🎓 Graduated in Systems Analysis and Development, with a strong focus on backend development using Java and the Spring ecosystem.
@@ -32,6 +34,18 @@
 
 ---
 
-### GitHub Stats
+### Samuel Maciel's GitHub Stats
 
 ![Kaio Muniz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaioMuniz&show_icons=true&count_private=true&theme=radical)
+
+---
+
+### Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioMuniz&layout=compact&theme=radical)
+
+---
+
+### Profile Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/KaioMuniz/count.svg)
