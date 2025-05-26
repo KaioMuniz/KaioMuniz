@@ -1,26 +1,26 @@
-# Hello, my name is Kaio Muniz!
+# Olá, meu nome é Kaio Muniz!
 
 [![Overview](https://img.shields.io/badge/-KaioMuniz-blue?style=for-the-badge&logo=github)](https://github.com/KaioMuniz)
 
-🚀 **Java Developer | RESTful APIs & Web Systems**
+🚀 **Desenvolvedor Java | APIs RESTful & Sistemas Web**
 
-🎓 Graduated in Systems Analysis and Development, with a strong focus on backend development using Java and the Spring ecosystem.
+🎓 Formado em Análise e Desenvolvimento de Sistemas, com foco sólido em desenvolvimento backend usando Java e o ecossistema Spring.
 
-💻 Currently deepening my knowledge in RESTful API development, web system architecture, and clean coding practices.
+💻 Atualmente aprofundando meus conhecimentos em desenvolvimento de APIs RESTful, arquitetura de sistemas web e práticas de código limpo.
 
 ---
 
-### Hands-on experience with:
+### Experiência prática com:
 
 - Java & Spring (Boot, Security, Data)
-- Relational databases (MySQL, PostgreSQL)
-- Automated testing (JUnit, Mockito)
-- Version control with Git & GitHub
-- System integrations (RabbitMQ, email services)
+- Bancos relacionais (MySQL, PostgreSQL)
+- Testes automatizados (JUnit, Mockito)
+- Controle de versão com Git & GitHub
+- Integrações de sistemas (RabbitMQ, serviços de email)
 
 ---
 
-### Languages, Frameworks, and Tools:
+### Linguagens, Frameworks e Ferramentas:
 
 <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
