@@ -20,7 +20,7 @@
 
 ---
 
-### Languages, Frameworks and Tools:
+### Languages, Frameworks, and Tools:
 
 <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -34,7 +34,7 @@
 
 ---
 
-### Samuel Maciel's GitHub Stats
+### GitHub Stats
 
 ![Kaio Muniz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaioMuniz&show_icons=true&count_private=true&theme=radical)
 
@@ -42,7 +42,7 @@
 
 ### Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioMuniz&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioMuniz&layout=compact&theme=radical)
 
 ---
 
