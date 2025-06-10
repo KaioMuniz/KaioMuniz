@@ -49,7 +49,6 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 <img alt="Redes de Computadores" src="https://img.shields.io/badge/-Redes%20de%20Computadores-1E90FF?style=flat-square&logo=cisco&logoColor=white" />
 <img alt="Programação de Computadores" src="https://img.shields.io/badge/-Programação%20de%20Computadores-FFD700?style=flat-square&logo=cplusplus&logoColor=white" />
 <img alt="Segurança da Informação" src="https://img.shields.io/badge/-Segurança%20da%20Informação-D2691E?style=flat-square&logo=keycloak&logoColor=white" />
-<br/>
 <img alt="Computação em Nuvem" src="https://img.shields.io/badge/-Computação%20em%20Nuvem-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
 <img alt="Desenvolvimento Web" src="https://img.shields.io/badge/-Desenvolvimento%20Web-00BFFF?style=flat-square&logo=html5&logoColor=white" />
 <img alt="Matemática e Lógica" src="https://img.shields.io/badge/-Matemática%20e%20Lógica-32CD32?style=flat-square&logo=python&logoColor=white" />
