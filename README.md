@@ -11,8 +11,8 @@
 - **Arquitetura de sistemas web**  
 - **Práticas de código limpo** para soluções escaláveis e de alta qualidade.
 
-  🌍 **Nível de Inglês**:  
-- **Nível Técnico**: Habilidade para ler e compreender documentação técnica, além de entender e se comunicar em ambientes profissionais de TI.  
+🌍 **Nível de Inglês**:  
+- **Nível Técnico**: Habilidade para ler e compreender documentação técnica.  
 
 ---
 
