@@ -1,13 +1,19 @@
 # Olá, meu nome é Kaio Muniz! 👋
 
-###  **Meu linkedin**
+- **LinkedIn**: [Kaio Muniz](https://www.linkedin.com/in/kaiomuniz)
+- **GitHub**: [KaioMuniz](https://github.com/KaioMuniz)
+
 [![Kaio Muniz LinkedIn Badge](https://img.shields.io/badge/-KaioMuniz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaiomuniz)
 
 🚀 **Desenvolvedor Full-Stack | Java | APIs RESTful & Arquitetura de Sistemas Web**
 
-🎓 **Formado em Análise e Desenvolvimento de Sistemas**, com especialização no desenvolvimento backend utilizando Java e o ecossistema Spring.
+---
 
-💻 Atualmente, estou focado no aprimoramento de minhas habilidades em **desenvolvimento de APIs RESTful**, **arquitetura de sistemas web** e **práticas de código limpo** para garantir a entrega de soluções escaláveis e de alta qualidade.
+🎓 **Formação Acadêmica:**
+- **Análise e Desenvolvimento de Sistemas** com foco no desenvolvimento backend utilizando **Java** e **Spring**.
+- **COTI INFORMATICA**: **Java Web Developer - Formação FullStack**, com especialização em **Desenvolvimento de Software Full Stack**.
+
+💻 Atualmente, estou me especializando em **desenvolvimento de APIs RESTful**, **arquitetura de sistemas web** e **práticas de código limpo** para garantir soluções escaláveis e de alta qualidade.
 
 ---
 
@@ -23,14 +29,6 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 - **Docker** e **Contêineres** para automação e otimização de ambientes
 - **Testes Automatizados** utilizando **JUnit** e **Mockito**
 - **Controle de versão com Git** e **GitHub**
-
----
-
-### 📈 **Atividades e Contribuições**
-
-- Contribuições regulares para repositórios de **Java**, **Spring Boot** e **Angular** no GitHub.
-- Participação ativa em discussões e fóruns sobre **código limpo** e **arquitetura de software**.
-- Mentorando iniciantes em **Java** e **Spring Boot** através de **cursos online** e **workshops**.
 
 ---
 
