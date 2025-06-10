@@ -1,4 +1,4 @@
-# Olá, meu nome é Kaio Muniz! 👋
+# Olá, sou Kaio Muniz! 👋 Desenvolvedor Full-Stack.
 
 ###  **Meu linkedin** [![Kaio Muniz LinkedIn Badge](https://img.shields.io/badge/-KaioMuniz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaiomuniz)
 
@@ -28,6 +28,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 - **Controle de versão com Git** e **GitHub**
 
 ---
+### 🛠 **Tecnologias e Ferramentas**
 <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /> <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
 <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
 <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
