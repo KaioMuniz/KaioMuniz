@@ -1,10 +1,11 @@
 # Olá, sou Kaio Muniz! 👋 Desenvolvedor Full-Stack.
 ### **Meu LinkedIn**: [![Kaio Muniz LinkedIn Badge](https://img.shields.io/badge/-KaioMuniz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaiomuniz)  
 
-🚀 **Desenvolvedor Full-Stack | Java | APIs RESTful & Arquitetura de Sistemas Web**  
-🎓 **Formação Acadêmica:**  
-- **Análise e Desenvolvimento de Sistemas** com foco no desenvolvimento backend utilizando **Java** e **Spring**.  
-- **COTI INFORMATICA**: **Java Web Developer - Formação FullStack**, com especialização em **Desenvolvimento de Software Full Stack**.  
+## 🚀 Desenvolvedor Full-Stack | Java | APIs RESTful & Arquitetura de Sistemas Web
+
+### 🎓 Formação Acadêmica:
+- **Graduação em Análise e Desenvolvimento de Sistemas (ADS)** pela **Estácio**.
+- **Curso Java Web Developer - Formação FullStack** na **COTI INFORMATICA**, com especialização em **Desenvolvimento de Software Full Stack**.
 
 💻 **Especializações e Foco Atual**:  
 - **Desenvolvimento de APIs RESTful**  
