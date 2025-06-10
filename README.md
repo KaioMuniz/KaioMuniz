@@ -1,8 +1,6 @@
 # Olá, meu nome é Kaio Muniz! 👋
 
-- **LinkedIn**: [Kaio Muniz](https://www.linkedin.com/in/kaiomuniz)
-- **GitHub**: [KaioMuniz](https://github.com/KaioMuniz)
-
+###  **Meu linkedin**
 [![Kaio Muniz LinkedIn Badge](https://img.shields.io/badge/-KaioMuniz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaiomuniz)
 
 🚀 **Desenvolvedor Full-Stack | Java | APIs RESTful & Arquitetura de Sistemas Web**
