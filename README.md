@@ -42,8 +42,6 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 <img alt="TDD" src="https://img.shields.io/badge/-TDD-FF9800?style=flat-square&logo=undefined&logoColor=white" />
 <img alt="Eclipse" src="https://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" />
 <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-
-
 <img alt="Arquitetura de Computadores" src="https://img.shields.io/badge/-Arquitetura%20de%20Computadores-2E8B57?style=flat-square&logo=computer&logoColor=white" />
 <img alt="Redes de Computadores" src="https://img.shields.io/badge/-Redes%20de%20Computadores-1E90FF?style=flat-square&logo=cisco&logoColor=white" />
 <img alt="Programação de Computadores" src="https://img.shields.io/badge/-Programação%20de%20Computadores-FFD700?style=flat-square&logo=cplusplus&logoColor=white" />
