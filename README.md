@@ -1,7 +1,7 @@
 # Olá, meu nome é Kaio Muniz! 👋
 
+###  **LINKEDIN**
 [![Kaio Muniz LinkedIn Badge](https://img.shields.io/badge/-KaioMuniz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaiomuniz)
-[![Overview](https://img.shields.io/badge/-KaioMuniz-blue?style=for-the-badge&logo=github)](https://github.com/KaioMuniz)
 
 🚀 **Desenvolvedor Full-Stack | Java | APIs RESTful & Arquitetura de Sistemas Web**
 
@@ -33,14 +33,6 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 - Mentorando iniciantes em **Java** e **Spring Boot** através de **cursos online** e **workshops**.
 
 ---
-
-### 🌍 **Tecnologias e Ferramentas que Utilizo**
-
-- **Java**, **Spring** e **Spring Boot**
-- **Angular**, **JavaScript** e **TypeScript**
-- **PostgreSQL**, **MongoDB**, **MySQL**
-- **Docker** e **AWS**
-- **RabbitMQ**, **Git**, **JUnit**, **Mockito**
 
 <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" />
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
