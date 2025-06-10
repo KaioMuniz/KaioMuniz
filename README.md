@@ -71,23 +71,11 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 
 ---
 
-### 📊 **GitHub Stats**
-
-![Kaio Muniz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaioMuniz&show_icons=true&count_private=true&theme=radical)
-
----
-
-### 🌍 **Top Linguagens**
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioMuniz&layout=compact&theme=radical)
-
----
-
-### 📊 **Contador de Visitantes do Perfil**
-
+![Kaio Muniz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaioMuniz&show_icons=true&count_private=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioMuniz&layout=compact&theme=radical)
 ![Visitor Count](https://profile-counter.glitch.me/KaioMuniz/count.svg)
 
 ---
+
 
 ### 📬 **Vamos Conectar?**
 
