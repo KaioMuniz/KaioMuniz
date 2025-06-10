@@ -1,32 +1,30 @@
 # Olá, sou Kaio Muniz! 👋 Desenvolvedor Full-Stack.
+### **Meu LinkedIn**: [![Kaio Muniz LinkedIn Badge](https://img.shields.io/badge/-KaioMuniz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaiomuniz)  
 
-###  **Meu linkedin** [![Kaio Muniz LinkedIn Badge](https://img.shields.io/badge/-KaioMuniz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaiomuniz)
+🚀 **Desenvolvedor Full-Stack | Java | APIs RESTful & Arquitetura de Sistemas Web**  
+🎓 **Formação Acadêmica:**  
+- **Análise e Desenvolvimento de Sistemas** com foco no desenvolvimento backend utilizando **Java** e **Spring**.  
+- **COTI INFORMATICA**: **Java Web Developer - Formação FullStack**, com especialização em **Desenvolvimento de Software Full Stack**.  
 
-🚀 **Desenvolvedor Full-Stack | Java | APIs RESTful & Arquitetura de Sistemas Web**
+💻 **Especializações e Foco Atual**:  
+- **Desenvolvimento de APIs RESTful**  
+- **Arquitetura de sistemas web**  
+- **Práticas de código limpo** para soluções escaláveis e de alta qualidade.
 
 ---
 
-🎓 **Formação Acadêmica:**
-- **Análise e Desenvolvimento de Sistemas** com foco no desenvolvimento backend utilizando **Java** e **Spring**.
-- **COTI INFORMATICA**: **Java Web Developer - Formação FullStack**, com especialização em **Desenvolvimento de Software Full Stack**.
+### 🌟 **Experiência Profissional**  
 
-💻 Atualmente, estou me especializando em **desenvolvimento de APIs RESTful**, **arquitetura de sistemas web** e **práticas de código limpo** para garantir soluções escaláveis e de alta qualidade.
+Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas seguintes áreas:  
 
----
-
-### 🌟 **Experiência Profissional**
-
-Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas seguintes áreas:
-
-- **Java & Spring Framework** (Spring Boot, Spring Security, Spring Data)
-- **Arquitetura de Microserviços** e **APIs RESTful**
-- **Desenvolvimento Frontend** com **Angular** e **TypeScript**
-- **Banco de Dados Relacional e NoSQL** (PostgreSQL, MySQL, MongoDB)
-- **Mensageria com RabbitMQ** para integração de sistemas
-- **Docker** e **Contêineres** para automação e otimização de ambientes
-- **Testes Automatizados** utilizando **JUnit** e **Mockito**
+- **Java & Spring Framework** (Spring Boot, Spring Security, Spring Data)  
+- **Arquitetura de Microserviços** e **APIs RESTful**  
+- **Desenvolvimento Frontend** com **Angular** e **TypeScript**  
+- **Banco de Dados Relacional e NoSQL** (PostgreSQL, MySQL, MongoDB)  
+- **Mensageria com RabbitMQ** para integração de sistemas  
+- **Docker** e **Contêineres** para automação e otimização de ambientes  
+- **Testes Automatizados** utilizando **JUnit** e **Mockito**  
 - **Controle de versão com Git** e **GitHub**
-
 ---
 ### 🛠 **Tecnologias e Ferramentas**
 <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /> <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
