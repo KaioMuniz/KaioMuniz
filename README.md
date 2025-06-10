@@ -1,5 +1,6 @@
 # Olá, meu nome é Kaio Muniz!
 
+[![Kaio Muniz LinkedIn Badge](https://img.shields.io/badge/-KaioMuniz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaiomuniz)
 [![Overview](https://img.shields.io/badge/-KaioMuniz-blue?style=for-the-badge&logo=github)](https://github.com/KaioMuniz)
 
 🚀 **Desenvolvedor Java | APIs RESTful & Sistemas Web**
@@ -9,14 +10,25 @@
 💻 Atualmente aprofundando meus conhecimentos em desenvolvimento de APIs RESTful, arquitetura de sistemas web e práticas de código limpo.
 
 ---
+- ### 🌟 **Experiência Profissional**
 
-### Experiência prática com:
+Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência com:
 
-- Java & Spring (Boot, Security, Data)
-- Bancos relacionais (MySQL, PostgreSQL)
-- Testes automatizados (JUnit, Mockito)
-- Controle de versão com Git & GitHub
-- Integrações de sistemas (RabbitMQ, serviços de email)
+- **Java & Spring Framework** (Spring Boot, Spring Security, Spring Data)
+- **Arquitetura de Microserviços** e **APIs RESTful**
+- **Desenvolvimento Frontend com Angular** e **TypeScript**
+- **Banco de Dados Relacional e NoSQL** (PostgreSQL, MySQL, MongoDB)
+- **Mensageria com RabbitMQ**
+- **Docker** e **Contêineres**
+- **Testes Automatizados** (JUnit, Mockito)
+- **Controle de versão com Git**  
+---
+
+### 📈 **Atividades e Contribuições**
+
+- Contribuições regulares para repositórios de **Java**, **Spring Boot** e **Angular**.
+- Participação ativa em discussões sobre **código limpo** e **arquitetura de software** em fóruns de desenvolvedores.
+- Mentorando iniciantes em **Java** e **Spring Boot**.
 
 ---
 
