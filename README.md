@@ -1,5 +1,3 @@
-# Refine the README content based on user's request
-refined_readme_content = """
 # Olá, meu nome é Kaio Muniz! 👋
 
 [![Kaio Muniz LinkedIn Badge](https://img.shields.io/badge/-KaioMuniz-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kaiomuniz)
@@ -78,11 +76,3 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 
 - **LinkedIn**: [Kaio Muniz](https://www.linkedin.com/in/kaiomuniz)
 - **GitHub**: [KaioMuniz](https://github.com/KaioMuniz)
-"""
-
-# Save the refined content to a file for downloading
-refined_file_path = '/mnt/data/README_KaioMuniz_Refined.md'
-with open(refined_file_path, 'w') as f:
-    f.write(refined_readme_content)
-
-refined_file_path
