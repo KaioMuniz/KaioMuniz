@@ -73,19 +73,21 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 ---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KaioMuniz&show_icons=true&count_private=true&theme=radical" alt="Kaio Muniz's GitHub Stats" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioMuniz&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+</div>
+
+<div align="center">
   <img src="https://profile-counter.glitch.me/KaioMuniz/count.svg" alt="Visitor Count" width="200"/>
 </div>
 
 ---
 
-
-
 ### 📬 **Vamos Conectar?**
 
 - **LinkedIn**: [Kaio Muniz](https://www.linkedin.com/in/kaiomuniz)
-- **GitHub**: [KaioMuniz](https://github.com/KaioMuniz)
+- **GitHub**: [Kaio Muniz](https://github.com/KaioMuniz)
