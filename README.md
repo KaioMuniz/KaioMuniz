@@ -1,4 +1,4 @@
-# Olá, sou Kaio Muniz! 👋 Desenvolvedor Full-Stack.
+# Olá, sou Kaio Muniz! 👋
 
 
 ## 🚀 Desenvolvedor Full-Stack | Java | APIs RESTful & Arquitetura de Sistemas Web
@@ -91,3 +91,4 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 
 - **LinkedIn**: [Kaio Muniz](https://www.linkedin.com/in/kaiomuniz)
 - **GitHub**: [Kaio Muniz](https://github.com/KaioMuniz)
+- **E-mail**: kkaioribeiro@gmail.com
