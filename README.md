@@ -69,9 +69,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
 <img alt="Big Data em Python" src="https://img.shields.io/badge/-Big%20Data%20em%20Python-8B008B?style=flat-square&logo=python&logoColor=white" />
 
-### Olá, sou Kaio Muniz 👋
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <p align="center">
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=KaioMuniz">
