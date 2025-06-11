@@ -71,6 +71,13 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 
 
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 <p align="center">
   <img alt="Visitors" src="https://komarev.com/ghpvc/?username=KaioMuniz">
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/KaioMuniz?style=flat&label=Stars&color=%23e3b341">
@@ -85,6 +92,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 </div>
 
 ---
+
 
 
 ### 📬 **Vamos Conectar?**
