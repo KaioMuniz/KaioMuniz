@@ -69,10 +69,23 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 <img alt="Android" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
 <img alt="Big Data em Python" src="https://img.shields.io/badge/-Big%20Data%20em%20Python-8B008B?style=flat-square&logo=python&logoColor=white" />
 
+### Olá, sou Kaio Muniz 👋
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<p align="center">
+  <img alt="Visitors" src="https://komarev.com/ghpvc/?username=KaioMuniz">
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/KaioMuniz?style=flat&label=Stars&color=%23e3b341">
+</p>
+
 ---
 
-![Kaio Muniz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaioMuniz&show_icons=true&count_private=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaioMuniz&layout=compact&theme=radical)
-![Visitor Count](https://profile-counter.glitch.me/KaioMuniz/count.svg)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaioMuniz&show_icons=true&count_private=true&theme=radical" alt="Kaio Muniz's GitHub Stats" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioMuniz&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+  <img src="https://profile-counter.glitch.me/KaioMuniz/count.svg" alt="Visitor Count" width="200"/>
+</div>
 
 ---
 
