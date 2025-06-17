@@ -93,4 +93,4 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 * **GitHub**: [https://github.com/KaioMuniz](https://github.com/KaioMuniz)
 * **E-mail**: [Clique aqui para enviar um novo e-mail para mim!](https://mail.google.com/mail/?view=cm&fs=1&to=kkaioribeiro@gmail.com)
 * **WhatsApp**: [Estou a um clique de distância, vamos conversar!](https://wa.me/5521972345311)
-* 📄 **Fique à vontade para conferir meu currículo em PDF: [Acesse aqui!](https://github.com/KaioMuniz/CurriculoKaio/blob/main/curriculo%20KaioMuniz%2011-06-2025%20(1).pdf)**
+* 📄 **Fique à vontade para conferir meu currículo em PDF: [Acesse aqui!](https://github.com/KaioMuniz/kaioCurriculum/blob/main/kaio%20curriculum.pdf)**
