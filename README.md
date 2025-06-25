@@ -1,19 +1,14 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&speed=50&pause=3000&delay=0&repeat=false&color=F2CDCD&center=true&width=600&lines=Ol%C3%A1%2C+sou+Kaio+Muniz!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&speed=50&pause=0&delay=0&repeat=true&color=F2CDCD&center=true&width=600&lines=Ol%C3%A1%2C+sou+Kaio+Muniz!+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&speed=50&pause=3000&delay=6000&repeat=false&color=F2CDCD&center=true&width=600&lines=Desenvolvedor+Full-Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&speed=50&pause=0&delay=6000&repeat=true&color=F2CDCD&center=true&width=600&lines=Desenvolvedor+Full-Stack" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&speed=50&pause=3000&delay=11000&repeat=false&color=F2CDCD&center=true&width=600&lines=Java+%7C+APIs+RESTful" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&speed=50&pause=0&delay=11000&repeat=true&color=F2CDCD&center=true&width=600&lines=Java+%7C+APIs+RESTful" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&speed=50&pause=3000&delay=16000&repeat=false&color=F2CDCD&center=true&width=700&lines=%26+Arquitetura+de+Sistemas+Web" alt="Typing SVG" />
-</p>
-
 
 ### 🎓 Formação Acadêmica:
 - **Graduação em Análise e Desenvolvimento de Sistemas (ADS)** pela **Estácio**.
