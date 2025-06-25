@@ -3,8 +3,9 @@
 </p>
 
 <p align="center">
-  ## 👋 Olá, sou Kaio Muniz!
+  <span style="font-size: 42px; font-weight: bold;">👋 Olá, sou Kaio Muniz!</span>
 </p>
+
 
 ### 🚀 Desenvolvedor Full-Stack | Java | APIs RESTful & Arquitetura de Sistemas Web
 
