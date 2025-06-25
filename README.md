@@ -1,4 +1,18 @@
 <div align="center">
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F2CDCD&center=true&vCenter=true&width=600&lines=Olá%2C+sou+Kaio+Muniz!+👋)
+</div>
+
+<div align="center">
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F2CDCD&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack)
+</div>
+
+<div align="center">
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F2CDCD&center=true&vCenter=true&width=800&lines=Java+%7C+APIs+RESTful+%26+Arquitetura+de+Sistemas+Web)
+</div>
+
+
+
+<div align="center">
 
   ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F2CDCD&center=true&vCenter=true&width=1000&lines=Olá%2C+sou+Kaio+Muniz!+👋;Desenvolvedor+Full-Stack;Java+%7C+APIs+RESTful+%26+Arquitetura+de+Sistemas+Web)
 
