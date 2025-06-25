@@ -1,13 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&speed=50&pause=0&delay=0&repeat=true&color=F2CDCD&center=true&width=600&lines=Ol%C3%A1%2C+sou+Kaio+Muniz!+%F0%9F%91%8B" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&speed=50&pause=0&delay=6000&repeat=true&color=F2CDCD&center=true&width=600&lines=Desenvolvedor+Full-Stack" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&speed=50&pause=0&delay=11000&repeat=true&color=F2CDCD&center=true&width=600&lines=Java+%7C+APIs+RESTful" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&speed=50&pause=1000&repeat=true&color=F2CDCD&center=true&width=1000&lines=Olá!+👋+Eu+sou+Kaio+Muniz.+Desenvolvedor+Full-Stack+%26+apaixonado+por+tecnologia!;Java+%7C+APIs+RESTful+%7C+Arquitetura+de+Sistemas+Web" alt="Typing SVG" />
 </p>
 
 ## 👋 Olá, sou Kaio Muniz!  
