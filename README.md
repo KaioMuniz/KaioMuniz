@@ -10,6 +10,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&speed=50&pause=0&delay=11000&repeat=true&color=F2CDCD&center=true&width=600&lines=Java+%7C+APIs+RESTful" alt="Typing SVG" />
 </p>
 
+## 👋 Olá, sou Kaio Muniz!  
+
+### 🚀 Desenvolvedor Full-Stack | Java | APIs RESTful & Arquitetura de Sistemas Web
+
 ### 🎓 Formação Acadêmica:
 - **Graduação em Análise e Desenvolvimento de Sistemas (ADS)** pela **Estácio**.
 - **Curso Java Web Developer - Formação FullStack** na **COTI INFORMATICA**, com especialização em **Desenvolvimento de Software Full Stack**.
