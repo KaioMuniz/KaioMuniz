@@ -1,3 +1,13 @@
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F2CDCD&center=true&vCenter=true&width=1000&lines=Olá%2C+sou+Kaio+Muniz!+👋;🚀+Desenvolvedor+Full-Stack+%7C+Java+%7C+APIs+RESTful+%26+Arquitetura+de+Sistemas+Web" alt="Typing SVG" />
+  </a>
+</p>
+
+
+
+
 # Olá, sou Kaio Muniz! 👋
 
 
