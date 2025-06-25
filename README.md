@@ -1,21 +1,5 @@
 <p align="center">
-  <!-- 1. Frase rápida e simpática -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&speed=70&pause=1000&delay=0&repeat=false&color=F2CDCD&center=true&width=800&lines=Ol%C3%A1%21+%F0%9F%91%8B" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <!-- 2. Um pouco mais lento -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&speed=40&pause=1500&delay=3000&repeat=false&color=F2CDCD&center=true&width=800&lines=Eu+sou+Kaio+Muniz." alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <!-- 3. Suave, dando personalidade -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&speed=30&pause=2000&delay=7000&repeat=false&color=F2CDCD&center=true&width=1000&lines=Desenvolvedor+Full-Stack+%26+apaixonado+por+tecnologia!" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <!-- 4. Parte técnica em loop -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&speed=50&pause=2000&delay=12000&repeat=true&color=F2CDCD&center=true&width=800&lines=Java+%7C+APIs+RESTful+%7C+Arquitetura+de+Sistemas+Web" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&speed=50&pause=2000&repeat=true&color=F2CDCD&center=true&width=1000&lines=Ol%C3%A1%2C+sou+Kaio+Muniz!+%F0%9F%91%8B;Desenvolvedor+Full-Stack;Java+%7C+APIs+RESTful;&+Arquitetura+de+Sistemas+Web" alt="Typing SVG" />
 </p>
 
 ## 👋 Olá, sou Kaio Muniz!  
