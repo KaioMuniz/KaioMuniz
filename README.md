@@ -2,11 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&speed=50&pause=2000&repeat=true&color=F2CDCD&center=true&width=1000&lines=Ol%C3%A1%2C+sou+Kaio+Muniz!+%F0%9F%91%8B;Desenvolvedor+Full-Stack;apaixonado+por+tecnologia!;Java+%7C+APIs+RESTful;Arquitetura+de+Sistemas+Web" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <span style="font-size: 42px; font-weight: bold;">👋 Olá, sou Kaio Muniz!</span>
-</p>
-
-
 ### 🚀 Desenvolvedor Full-Stack | Java | APIs RESTful & Arquitetura de Sistemas Web
 
 ### 🎓 Formação Acadêmica:
