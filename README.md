@@ -1,15 +1,14 @@
-<div align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F2CDCD&center=true&vCenter=true&width=600&lines=Olá%2C+sou+Kaio+Muniz!+👋)
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F2CDCD&center=true&width=600&lines=Olá%2C+sou+Kaio+Muniz!+👋" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F2CDCD&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full-Stack)
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F2CDCD&center=true&width=600&lines=Desenvolvedor+Full-Stack" alt="Typing SVG" />
+</p>
 
-<div align="center">
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F2CDCD&center=true&vCenter=true&width=800&lines=Java+%7C+APIs+RESTful+%26+Arquitetura+de+Sistemas+Web)
-</div>
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=F2CDCD&center=true&width=800&lines=Java+%7C+APIs+RESTful+%26+Arquitetura+de+Sistemas+Web" alt="Typing SVG" />
+</p>
 
 
 <div align="center">
