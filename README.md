@@ -87,6 +87,30 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 </div>
 
 ---
+Resolvendo PROVAS:
+Teste Técnico - Desenvolvedor
+Backend Junior
+2horas sem pause, entregue com testes com junit e com docker file.
+
+video da resoulução: https://www.youtube.com/watch?v=2UvV_kjM1HM
+
+Projeto: https://github.com/KaioMuniz/produtoTesteProvaApi
+-> para rodar: baixar o ZIP e dar //docker-compose up -d --build
+http://localhost:8086/swagger-ui/index.html#
+
+---
+
+### 🧪 Teste Técnico - Desenvolvedor Backend Júnior
+
+🕒 2 horas ininterruptas | 🚀 Docker + Spring Boot + JUnit  
+📹 Assista ao vídeo completo da resolução:  
+[![Assista no YouTube](https://img.shields.io/badge/YouTube-Assista%20aqui-red?logo=youtube)](https://www.youtube.com/watch?v=2UvV_kjM1HM)
+
+🔗 Projeto no GitHub: [produtoTesteProvaApi](https://github.com/KaioMuniz/produtoTesteProvaApi)
+
+
+
+---
 
 ### 📬 **Vamos Conectar?**
 
