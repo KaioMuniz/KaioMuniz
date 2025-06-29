@@ -85,13 +85,8 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 <div align="center">
   <img src="https://profile-counter.glitch.me/KaioMuniz/count.svg" alt="Visitor Count" width="200"/>
 </div>
-
 ---
-
----
-
 ### Resolvendo PROVAS:
-
 ---
 🧪 Teste Técnico - Desenvolvedor Backend Júnior
 🕒 2 horas ininterruptas | entregue com Dockerfile e JUnit com testes. 
@@ -100,7 +95,23 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 -> para rodar: baixar o ZIP e dar //docker-compose up -d --build
 http://localhost:8086/swagger-ui/index.html#
 ---
+---
+<h3>🧪 Teste Técnico - Backend Júnior</h3>
 
+🕒 2h ininterruptas · Dockerfile · JUnit  
+📹 <strong>Vídeo:</strong>  
+<a href="https://www.youtube.com/watch?v=2UvV_kjM1HM">
+  <img src="https://img.youtube.com/vi/2UvV_kjM1HM/hqdefault.jpg" alt="Assista ao vídeo" width="360">
+</a>
+
+🔗 <strong>Projeto:</strong>  
+<a href="https://github.com/KaioMuniz/produtoTesteProvaApi">github.com/KaioMuniz/produtoTesteProvaApi</a>
+
+▶️ <strong>Rodar:</strong>  
+Baixe o ZIP e execute:
+
+```bash
+docker-compose up -d --build
 
 ---
 
