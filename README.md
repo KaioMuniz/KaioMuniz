@@ -89,14 +89,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 
 ### Resolvendo PROVAS:
 
----
-🧪 Teste Técnico - Desenvolvedor Backend Júnior
-🕒 2 horas ininterruptas | entregue com Dockerfile e JUnit com testes. 
-📹 Assista ao vídeo completo da resolução:  [![Assista ao vídeo](https://img.youtube.com/vi/2UvV_kjM1HM/hqdefault.jpg)](https://www.youtube.com/watch?v=2UvV_kjM1HM)
-🔗 Projeto no GitHub: [produtoTesteProvaApi](https://github.com/KaioMuniz/produtoTesteProvaApi)
--> para rodar: baixar o ZIP e dar //docker-compose up -d --build
-http://localhost:8086/swagger-ui/index.html#
----
+
 ---
 <table>
   <tr>
@@ -121,7 +114,6 @@ http://localhost:8086/swagger-ui/index.html#
   </tr>
 </table>
 ---
-d
 
 ---
 
