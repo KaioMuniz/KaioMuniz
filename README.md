@@ -86,7 +86,9 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
   <img src="https://profile-counter.glitch.me/KaioMuniz/count.svg" alt="Visitor Count" width="200"/>
 </div>
 ---
+
 ### Resolvendo PROVAS:
+
 ---
 🧪 Teste Técnico - Desenvolvedor Backend Júnior
 🕒 2 horas ininterruptas | entregue com Dockerfile e JUnit com testes. 
@@ -96,22 +98,30 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 http://localhost:8086/swagger-ui/index.html#
 ---
 ---
-<h3>🧪 Teste Técnico - Backend Júnior</h3>
-
-🕒 2h ininterruptas · Dockerfile · JUnit  
-📹 <strong>Vídeo:</strong>  
-<a href="https://www.youtube.com/watch?v=2UvV_kjM1HM">
-  <img src="https://img.youtube.com/vi/2UvV_kjM1HM/hqdefault.jpg" alt="Assista ao vídeo" width="360">
-</a>
-
-🔗 <strong>Projeto:</strong>  
-<a href="https://github.com/KaioMuniz/produtoTesteProvaApi">github.com/KaioMuniz/produtoTesteProvaApi</a>
-
-▶️ <strong>Rodar:</strong>  
-Baixe o ZIP e execute:
-
-```bash
-docker-compose up -d --build
+<table>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=2UvV_kjM1HM">
+        <img src="https://img.youtube.com/vi/2UvV_kjM1HM/hqdefault.jpg" alt="Assista ao vídeo" width="360">
+      </a>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <h3>🧪 Teste Técnico - Backend Júnior</h3>
+      <p>🕒 2h ininterruptas · Dockerfile · JUnit</p>
+      <p>📹 <strong>Vídeo completo:</strong><br/>
+      <a href="https://www.youtube.com/watch?v=2UvV_kjM1HM">youtube.com/watch?v=2UvV_kjM1HM</a></p>
+      <p>🔗 <strong>GitHub:</strong><br/>
+      <a href="https://github.com/KaioMuniz/produtoTesteProvaApi">github.com/KaioMuniz/produtoTesteProvaApi</a></p>
+      <p>▶️ <strong>Rodar projeto:</strong><br/>
+      Baixe o ZIP e execute:
+      <pre><code>docker-compose up -d --build</code></pre>
+      <a href="http://localhost:8086/swagger-ui/index.html#">localhost:8086/swagger-ui</a>
+      </p>
+    </td>
+  </tr>
+</table>
+---
+d
 
 ---
 
