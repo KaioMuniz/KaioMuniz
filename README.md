@@ -101,7 +101,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>🧪 Teste Técnico - Backend Júnior</h3>
-      <p>🕒 2h ininterruptas · Dockerfile · JUnit</p>
+      <p>🕒 2 horas ininterruptas | entregue com Dockerfile e JUnit com testes.</p>
       <p>📹 <strong>Vídeo completo:</strong><br/>
       <a href="https://www.youtube.com/watch?v=2UvV_kjM1HM">youtube.com/watch?v=2UvV_kjM1HM</a></p>
       <p>🔗 <strong>GitHub:</strong><br/>
