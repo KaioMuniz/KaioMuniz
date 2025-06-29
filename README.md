@@ -85,12 +85,13 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 <div align="center">
   <img src="https://profile-counter.glitch.me/KaioMuniz/count.svg" alt="Visitor Count" width="200"/>
 </div>
+
 ---
 
 ### Resolvendo PROVAS:
 
-
 ---
+
 <table>
   <tr>
     <td>
@@ -113,7 +114,6 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
     </td>
   </tr>
 </table>
----
 
 ---
 
