@@ -132,8 +132,8 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
       <p>📹 <strong>Vídeo completo:</strong><br/>
       <a href="https://www.youtube.com/watch?v=2UvV_kjM1HM">youtube.com/watch?v=2UvV_kjM1HM</a></p>
       <p>🔗 <strong>GitHub:</strong><br/>
-      <a href="https://github.com/KaioMuniz/pagamentoTesteProvaApi">github.com/KaioMuniz/produtoTesteProvaApi</a></p>
-      <a href="https://github.com/KaioMuniz/pagamentoTesteProvaWeb">github.com/KaioMuniz/produtoTesteProvaWeb</a></p>
+      <a href="https://github.com/KaioMuniz/pagamentoTesteProvaApi">github.com/KaioMuniz/pagamentoTesteProvaApi</a></p>
+      <a href="https://github.com/KaioMuniz/pagamentoTesteProvaWeb">github.com/KaioMuniz/pagamentoTesteProvaWeb</a></p>
       <p>▶️ <strong>Rodar projeto:</strong><br/>
       Baixe o ZIP e execute:
       <pre><code>docker-compose up -d --build</code></pre>
