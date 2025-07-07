@@ -115,7 +115,37 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
   </tr>
 </table>
 
+
 ---
+
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/watch?v=2UvV_kjM1HM">
+        <img src="https://img.youtube.com/vi/2UvV_kjM1HM/hqdefault.jpg" alt="Assista ao vídeo" width="360">
+      </a>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <h3>🧪 Teste Técnico Desenvolvedor FullStack Junior</h3>
+      <p>🕒 4 horas | entregue com Dockerfile e JUnit com testes.</p>
+      <p>📹 <strong>Vídeo completo:</strong><br/>
+      <a href="https://www.youtube.com/watch?v=2UvV_kjM1HM">youtube.com/watch?v=2UvV_kjM1HM</a></p>
+      <p>🔗 <strong>GitHub:</strong><br/>
+      <a href="https://github.com/KaioMuniz/pagamentoTesteProvaApi">github.com/KaioMuniz/produtoTesteProvaApi</a></p>
+      <a href="https://github.com/KaioMuniz/pagamentoTesteProvaWeb">github.com/KaioMuniz/produtoTesteProvaWeb</a></p>
+      <p>▶️ <strong>Rodar projeto:</strong><br/>
+      Baixe o ZIP e execute:
+      <pre><code>docker-compose up -d --build</code></pre>
+      <a href="http://localhost:8088/swagger-ui/index.html#">localhost:8088/swagger-ui</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+---
+
 
 ### 📬 **Vamos Conectar?**
 
