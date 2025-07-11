@@ -82,10 +82,6 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaioMuniz&layout=compact&theme=radical" alt="Top Languages" width="400"/>
 </div>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/KaioMuniz/count.svg" alt="Visitor Count" width="200"/>
-</div>
-
 ---
 
 ### Resolvendo PROVAS:
