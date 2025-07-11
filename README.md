@@ -5,7 +5,7 @@
 ### 🚀 Desenvolvedor Full-Stack | Java | APIs RESTful & Arquitetura de Sistemas Web
 
 ### 🎓 Formação Acadêmica:
-- **Graduação em Análise e Desenvolvimento de Sistemas (ADS)** pela **Estácio**.
+- **Graduação em Análise e Desenvolvimento de Sistemas (ADS)** pela **Estácio** com especialização em **Análise de Software Full Stack**.
 - **Curso Java Web Developer - Formação FullStack** na **COTI INFORMATICA**, com especialização em **Desenvolvimento de Software Full Stack**.
 
 💻 **Especializações e Foco Atual**:  
