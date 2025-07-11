@@ -123,7 +123,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <h3>🧪 Teste Técnico Desenvolvedor FullStack Junior</h3>
+      <h3>🧪 Teste Técnico - FullStack Junior</h3>
       <p>🕒 4 horas | entregue com Dockerfile e JUnit com testes.</p>
       <p>📹 <strong>Vídeo completo:</strong><br/>
       <a href="https://www.youtube.com/watch?v=2UvV_kjM1HM">youtube.com/watch?v=2UvV_kjM1HM</a></p>
