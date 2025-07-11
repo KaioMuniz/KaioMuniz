@@ -96,7 +96,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <h3>🧪 Teste Técnico - Backend Júnior</h3>
+      <h3>🧪 Teste Técnico - Desenvolvedor Backend Júnior</h3>
       <p>🕒 2 horas ininterruptas | entregue com Dockerfile e JUnit com testes.</p>
       <p>📹 <strong>Vídeo completo:</strong><br/>
       <a href="https://www.youtube.com/watch?v=2UvV_kjM1HM">youtube.com/watch?v=2UvV_kjM1HM</a></p>
@@ -118,15 +118,15 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 <table>
   <tr>
     <td>
-      <a href="https://www.youtube.com/watch?v=2UvV_kjM1HM">
-        <img src="https://img.youtube.com/vi/2UvV_kjM1HM/hqdefault.jpg" alt="Assista ao vídeo" width="360">
-      </a>
+      <a href="https://www.youtube.com/watch?v=oBHAjVWP3jY">
+    <img src="https://img.youtube.com/vi/oBHAjVWP3jY/hqdefault.jpg" alt="Assista ao vídeo" width="360">
+    </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>🧪 Teste Técnico - Desenvolvedor FullStack Junior</h3>
       <p>🕒 4 horas | entregue com Dockerfile e JUnit com testes.</p>
       <p>📹 <strong>Vídeo completo:</strong><br/>
-      <a href="https://www.youtube.com/watch?v=2UvV_kjM1HM">youtube.com/watch?v=2UvV_kjM1HM</a></p>
+      <a href="https://youtu.be/oBHAjVWP3jY">https://youtu.be/oBHAjVWP3jY</a></p>
       <p>🔗 <strong>GitHub:</strong><br/>
       <a href="https://github.com/KaioMuniz/pagamentoTesteProvaApi">github.com/KaioMuniz/pagamentoTesteProvaApi</a></p>
       <a href="https://github.com/KaioMuniz/pagamentoTesteProvaWeb">github.com/KaioMuniz/pagamentoTesteProvaWeb</a></p>
