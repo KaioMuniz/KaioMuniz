@@ -123,7 +123,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <h3>🧪 Teste Técnico - FullStack Junior</h3>
+      <h3>🧪 Teste Técnico - Desenvolvedor FullStack Junior</h3>
       <p>🕒 4 horas | entregue com Dockerfile e JUnit com testes.</p>
       <p>📹 <strong>Vídeo completo:</strong><br/>
       <a href="https://www.youtube.com/watch?v=2UvV_kjM1HM">youtube.com/watch?v=2UvV_kjM1HM</a></p>
@@ -132,8 +132,10 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
       <a href="https://github.com/KaioMuniz/pagamentoTesteProvaWeb">github.com/KaioMuniz/pagamentoTesteProvaWeb</a></p>
       <p>▶️ <strong>Rodar projeto:</strong><br/>
       Baixe o ZIP e execute:
-      <pre><code>docker-compose up -d --build</code></pre>
-      <a href="http://localhost:8088/swagger-ui/index.html#">localhost:8088/swagger-ui</a>
+      <pre><code>docker-compose up -d --build (API)</code></pre>
+      <pre><code>docker run -p 80:80 angular-app (WEB)</code></pre>
+      <a href="http://localhost:8088/swagger-ui/index.html#">localhost:8086/swagger-ui</a>
+      <a href="http://localhost:">localhost:</a>
       </p>
     </td>
   </tr>
