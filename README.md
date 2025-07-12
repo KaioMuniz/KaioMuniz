@@ -182,7 +182,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <h3>Juntos de colegas de estudo realizamos em união um projeto usuariosApi e um usuariosWeb.</h3>
+      <h3>Diante um grupo de estudo realizamos em união um projeto SSO.</h3>
       <p>🕒 4 horas | entregue com Dockerfile e JUnit com testes.</p>
       <p>📹 <strong>Vídeo completo:</strong><br/>
       <a href="https://youtu.be/oBHAjVWP3jY">https://youtu.be/oBHAjVWP3jY</a></p>
