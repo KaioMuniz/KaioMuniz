@@ -147,24 +147,29 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
   <tr>
     <td>
       <a href="https://youtu.be/61LAmpn4ffg">
-    <img src="https://img.youtube.com/vi/61LAmpn4ffg/hqdefault.jpg" alt="Assista ao vídeo" width="360">
-</a>
+        <img src="https://img.youtube.com/vi/61LAmpn4ffg/hqdefault.jpg" alt="Assista ao vídeo" width="360">
+      </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>Grupo De Estudo.</h3>
       <p>Realizamos em união um projeto Single Sign-On (SSO)</p>
       <p>🕒 4 horas | entregue com Dockerfile e JUnit com testes.</p>
       <p>📹 <strong>Vídeo completo:</strong><br/>
-      <a href="https://youtu.be/oBHAjVWP3jY">https://youtu.be/oBHAjVWP3jY</a></p>
+        <a href="https://youtu.be/oBHAjVWP3jY">https://youtu.be/oBHAjVWP3jY</a>
+      </p>
       <p>🔗 <strong>GitHub:</strong><br/>
-      <a href="https://github.com/KaioMuniz/usuariosApi">https://github.com/KaioMuniz/usuariosApi</a></p>
-      <a href="https://github.com/KaioMuniz/usuariosWeb">https://github.com/KaioMuniz/usuariosWeb</a></p>
+        <a href="https://github.com/KaioMuniz/usuariosApi">https://github.com/KaioMuniz/usuariosApi</a></p>
+        <a href="https://github.com/KaioMuniz/usuariosWeb">https://github.com/KaioMuniz/usuariosWeb</a></p>
+      <p>👥 <strong>Contribuidores:</strong><br/>
+        <a href="https://github.com/RobertPorteles">Github]: RobertPorteles</a>, 
+        <a href="https://github.com/joaomarqu3ss">Github: joaomarqu3ss</a>
+      </p>
       <p>▶️ <strong>Rodar projeto:</strong><br/>
-      Baixe o ZIP e execute:
-      <pre><code>docker-compose up -d --build (API)</code></pre>
-      <pre><code>docker run -p 80:80 angular-app (WEB)</code></pre>
-      <a href="http://localhost:8088/swagger-ui/index.html#">localhost:8086/swagger-ui</a>
-      <a href="http://localhost:">localhost:</a>
+        Baixe o ZIP e execute:
+        <pre><code>docker-compose up -d --build (API)</code></pre>
+        <pre><code>docker run -p 80:80 angular-app (WEB)</code></pre>
+        <a href="http://localhost:8088/swagger-ui/index.html#">localhost:8086/swagger-ui</a>
+        <a href="http://localhost:">localhost:</a>
       </p>
     </td>
   </tr>
@@ -190,8 +195,8 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
         <a href="https://github.com/KaioMuniz/usuariosApi">https://github.com/KaioMuniz/usuariosApi</a></p>
         <a href="https://github.com/KaioMuniz/usuariosWeb">https://github.com/KaioMuniz/usuariosWeb</a></p>
       <p>👥 <strong>Contribuidores:</strong><br/>
-        <a href="https://github.com/RobertPorteles">https://github.com/RobertPorteles</a>, 
-        <a href="https://github.com/joaomarqu3ss">https://github.com/joaomarqu3ss</a>
+        <a href="https://github.com/RobertPorteles">Github: RobertPorteles</a><br/>
+        <a href="https://github.com/joaomarqu3ss">Github: joaomarqu3ss</a>
       </p>
       <p>▶️ <strong>Rodar projeto:</strong><br/>
         Baixe o ZIP e execute:
@@ -204,7 +209,6 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
   </tr>
 </table>
 
----
 
 
 
