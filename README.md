@@ -146,16 +146,16 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 <table>
   <tr>
     <td>
-      <a href="https://youtu.be/61LAmpn4ffg">
-        <img src="https://img.youtube.com/vi/61LAmpn4ffg/hqdefault.jpg" alt="Assista ao vídeo" width="360">
-      </a>
+      <a href="https://youtu.be/a5LQhYKkElM">
+    <img src="https://img.youtube.com/vi/a5LQhYKkElM/hqdefault.jpg" alt="Assista ao vídeo" width="360">
+</a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>Grupo De Estudo Coti Informática.</h3>
       <p>Realizamos em união um projeto Single Sign-On (SSO)</p>
       <p>🕒 4 horas | entregue com Dockerfile e JUnit com testes.</p>
       <p>📹 <strong>Vídeo completo:</strong><br/>
-        <a href="https://youtu.be/oBHAjVWP3jY">https://youtu.be/oBHAjVWP3jY</a>
+        <a href="https://youtu.be/a5LQhYKkElM">https://youtu.be/a5LQhYKkElM</a>
       </p>
       <p>🔗 <strong>GitHub:</strong><br/>
         <a href="https://github.com/KaioMuniz/usuariosApi">https://github.com/KaioMuniz/usuariosApi</a></p>
