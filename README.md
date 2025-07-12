@@ -176,7 +176,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 </table>
 
 
-
+---
 
 
 ### 📬 **Vamos Conectar?**
