@@ -91,15 +91,15 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 <table>
   <tr>
     <td>
-      <a href="https://www.youtube.com/watch?v=2UvV_kjM1HM">
-        <img src="https://img.youtube.com/vi/2UvV_kjM1HM/hqdefault.jpg" alt="Assista ao vídeo" width="360">
-      </a>
+      <a href="https://www.youtube.com/watch?v=badR-dm_O6U">
+    <img src="https://img.youtube.com/vi/badR-dm_O6U/hqdefault.jpg" alt="Assista ao vídeo" width="360">
+    </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>🧪 Teste Técnico - Desenvolvedor Backend Júnior</h3>
       <p>🕒 2 horas ininterruptas | entregue com Dockerfile e JUnit com testes.</p>
       <p>📹 <strong>Vídeo completo:</strong><br/>
-      <a href="https://www.youtube.com/watch?v=2UvV_kjM1HM">youtube.com/watch?v=2UvV_kjM1HM</a></p>
+      <a href="https://www.youtube.com/watch?v=badR-dm_O6U">https://www.youtube.com/watch?v=badR-dm_O6U</a></p>
       <p>🔗 <strong>GitHub:</strong><br/>
       <a href="https://github.com/KaioMuniz/produtoTesteProvaApi">github.com/KaioMuniz/produtoTesteProvaApi</a></p>
       <p>▶️ <strong>Rodar projeto:</strong><br/>
