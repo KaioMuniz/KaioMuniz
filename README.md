@@ -30,6 +30,23 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 - **Docker** e **Contêineres** para automação e otimização de ambientes  
 - **Testes Automatizados** utilizando **JUnit** e **Mockito**  
 - **Controle de versão com Git** e **GitHub**
+
+---
+
+### 📚 **Minhas Referências de Livros**:
+
+- **MARTIN, Robert C.** **Código Limpo: Habilidades práticas do Agile Software.**  
+  Boas práticas na escrita de código, com foco em clareza, simplicidade e manutenibilidade.
+
+- **MARTIN, Robert C.** **Arquitetura Limpa: O guia do arquiteto de software pragmático.**  
+  Projetar sistemas escaláveis e sustentáveis, mantendo uma arquitetura bem estruturada.
+
+- **HUNT, Andrew; THOMAS, David.** **O Programador Pragmático: De Aprendiz a Mestre.**  
+  Melhores práticas diárias até a resolução de problemas comuns de desenvolvimento.
+
+- **EVANS, Eric.** **Domain-Driven Design: Tackling Complexity in the Heart of Software.**  
+  Uma abordagem para desenvolver software focado no domínio do negócio.
+
 ---
 ### 🛠 **Tecnologias e Ferramentas**
 <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /> <img alt="Spring Boot" src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
