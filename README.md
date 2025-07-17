@@ -32,7 +32,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 - **Controle de versão com Git** e **GitHub**
 
 <a href="https://github.com/KaioMuniz/trajetoriaKaio" target="_blank" class="link-button">
-    Vejam minha trajetoria: clique aqui!
+    clique aqui! : Veja minha trajetoria.
 </a>
 
 ---
