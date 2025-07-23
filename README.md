@@ -118,7 +118,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
       <a href="https://www.youtube.com/watch?v=oBHAjVWP3jY">
     <img src="https://img.youtube.com/vi/oBHAjVWP3jY/hqdefault.jpg" alt="Assista ao vídeo" width="360">
     </a>
-       <a href="https://youtu.be/a5LQhYKkElM">
+       <a href="https://www.youtube.com/watch?v=oBHAjVWP3jY">
         <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnNlbDJrd2gzZjdqYnhlc3ZmMGZoYzdoY3gyYmxzN3l0bTRsczJtbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BHngsrfMJXzjVxdoiI/giphy.gif" alt="Assista ao vídeo" width="360">
       </a>
     </td>
