@@ -178,6 +178,10 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
       <a href="https://youtu.be/a5LQhYKkElM">
     <img src="https://img.youtube.com/vi/a5LQhYKkElM/hqdefault.jpg" alt="Assista ao vídeo" width="360">
 </a>
+          </a>
+       <a href="https://youtu.be/a5LQhYKkElM">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXZwZXVjamgwcjhiYXBwYTQwOHpoZXBxNWM1YXpneGMzbzFuY203eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jJJX0YkH5XtcfddEQa/giphy.gif" alt="Assista ao vídeo" width="360">
+      </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>Grupo De Estudo Coti Informática.</h3>
