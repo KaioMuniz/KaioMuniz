@@ -2,55 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&speed=50&pause=2000&repeat=true&color=F2CDCD&center=true&width=1000&lines=Ol%C3%A1%2C+sou+Kaio+Muniz!+%F0%9F%91%8B;Desenvolvedor+Full-Stack;apaixonado+por+tecnologia!;Java+%7C+APIs+RESTful;Arquitetura+de+Sistemas+Web" alt="Typing SVG" />
 </p>
 
-### 🚀 Desenvolvedor Full-Stack | Java | APIs RESTful & Arquitetura de Sistemas Web
-
-### 🎓 Formação Acadêmica:
-- **Graduação em Análise e Desenvolvimento de Sistemas (ADS)** pela **Estácio** com especialização em **Análise de Software Full Stack**.
-- **Curso Java Web Developer - Formação FullStack** na **COTI INFORMATICA**, com especialização em **Desenvolvimento de Software Full Stack**.
-
-💻 **Especializações e Foco Atual**:  
-- **Desenvolvimento de APIs RESTful**  
-- **Arquitetura de sistemas web**  
-- **Práticas de código limpo** para soluções escaláveis e de alta qualidade.
-
-🌍 **Nível de Inglês**:  
-- **Nível Técnico**: Habilidade para ler e compreender documentação técnica.  
-
----
-
-### 🌟 **Experiência Profissional**  
-
-Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas seguintes áreas:  
-
-- **Java & Spring Framework** (Spring Boot, Spring Security, Spring Data)  
-- **Arquitetura de Microserviços** e **APIs RESTful**  
-- **Desenvolvimento Frontend** com **Angular** e **TypeScript**  
-- **Banco de Dados Relacional e NoSQL** (PostgreSQL, MySQL, MongoDB)  
-- **Mensageria com RabbitMQ** para integração de sistemas  
-- **Docker** e **Contêineres** para automação e otimização de ambientes  
-- **Testes Automatizados** utilizando **JUnit** e **Mockito**  
-- **Controle de versão com Git** e **GitHub**
-
-<a href="https://github.com/KaioMuniz/trajetoriaKaio" target="_blank" class="link-button">
-    clique aqui! : Veja minha trajetoria profissional.
-</a>
-
----
-
-
-### 📚 **Minhas Referências de Livros**:
-
-- **MARTIN, Robert C.** **Código Limpo: Habilidades práticas do Agile Software.**  
-  Boas práticas na escrita de código, com foco em clareza, simplicidade e manutenibilidade.
-
-- **MARTIN, Robert C.** **Arquitetura Limpa: O guia do arquiteto de software pragmático.**  
-  Projetar sistemas escaláveis e sustentáveis, mantendo uma arquitetura bem estruturada.
-
-- **HUNT, Andrew; THOMAS, David.** **O Programador Pragmático: De Aprendiz a Mestre.**  
-  Melhores práticas diárias até a resolução de problemas comuns de desenvolvimento.
-
-- **EVANS, Eric.** **Domain-Driven Design: Tackling Complexity in the Heart of Software.**  
-  Uma abordagem para desenvolver software focado no domínio do negócio.
 
 ---
 ### 🛠 **Tecnologias e Ferramentas**
