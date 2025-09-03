@@ -23,14 +23,16 @@
 
 Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas seguintes áreas:  
 
-- **Java & Spring Framework** (Spring Boot, Spring Security, Spring Data)  
-- **Arquitetura de Microserviços** e **APIs RESTful**  
-- **Desenvolvimento Frontend** com **Angular** e **TypeScript**  
-- **Banco de Dados Relacional e NoSQL** (PostgreSQL, MySQL, MongoDB)  
-- **Mensageria com RabbitMQ** para integração de sistemas  
-- **Docker** e **Contêineres** para automação e otimização de ambientes  
-- **Testes Automatizados** utilizando **JUnit** e **Mockito**  
-- **Controle de versão com Git** e **GitHub**
+- **Back-end**: Java (8 ao 21), Spring Framework (Boot, MVC, Security, Data, Cloud, AOP), JPA/Hibernate, Servidores de Aplicação (JBoss, Tomcat).  
+- **Front-end**: Angular, TypeScript, HTML5, CSS3.  
+- **Bancos de Dados**: SQL (PostgreSQL, MySQL, SQL Server) e NoSQL (MongoDB).  
+- **Autenticação & Autorização**: Spring Security, JWT, OAuth 2.0.  
+- **Mensageria**: RabbitMQ, Kafka.  
+- **Testes & Qualidade**: JUnit, Mockito, Postman, Testes Unitários e de Integração.  
+- **DevOps & Infraestrutura**: Docker, CI/CD (GitHub Actions, Azure DevOps), Cloud (AWS, Azure), Git, GitHub, Maven, Railway.  
+- **Metodologias e Ferramentas de Gestão**: Ágil (Scrum, Kanban), Redmine, Azure DevOps.  
+
+
 
 <a href="https://github.com/KaioMuniz/trajetoriaKaio" target="_blank" class="link-button">
     clique aqui! : Veja minha trajetoria profissional.
