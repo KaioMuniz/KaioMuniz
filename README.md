@@ -16,6 +16,35 @@
 🌍 **Nível de Inglês**:  
 - **Nível Técnico**: Habilidade para ler e compreender documentação técnica.  
 
+
+---
+
+<p>
+  <a href="https://github.com/KaioMuniz/projeto1">
+    <img src="https://img.shields.io/badge/Projeto%201-%23F2CDCD?style=for-the-badge&logo=github&logoColor=black" />
+  </a>  
+  <br/>
+ <sub>🔹 Repositório que reúne minha trajetória em testes técnicos e projetos em equipe.  
+Inclui provas práticas entregues com Docker, JUnit e Swagger, além de um projeto em grupo utilizando Single Sign-On (SSO).  
+Cada desafio conta com vídeo explicativo no YouTube e código completo no GitHub.</sub>
+</p>
+
+<p>
+  <a href="https://github.com/KaioMuniz/projeto2">
+    <img src="https://img.shields.io/badge/Projeto%202-%23F2CDCD?style=for-the-badge&logo=github&logoColor=black" />
+  </a>  
+  <br/>
+  <sub>🔹 Breve descrição do Projeto 2 (ex: Sistema acadêmico com login de alunos e gestão de cursos).</sub>
+</p>
+
+<p>
+  <a href="https://github.com/KaioMuniz/projeto3">
+    <img src="https://img.shields.io/badge/Projeto%203-%23F2CDCD?style=for-the-badge&logo=github&logoColor=black" />
+  </a>  
+  <br/>
+  <sub>🔹 Breve descrição do Projeto 3 (ex: Arquitetura monolítica integrando auth, produtos e pedidos).</sub>
+</p>
+
 ---
 
 
