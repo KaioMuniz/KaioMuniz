@@ -54,24 +54,18 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
   <tr>
     <td>
       <a href="#">
-        <img src="" alt="Assista ao vídeo" width="360">
-      </a>
-      <a href="#">
         <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWI0aXdxbHhsMTBldm1jMDZoOHM2NDBmcmpyaTg2NWF0N2d4ZWEweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FXhIrm5n1xjPVyOgTm/giphy.gif" alt="GIF do projeto" width="360">
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <h3>🧪 Projeto 1 - Testes Técnicos & Projetos em Equipe</h3>
-      <p>🔹 Repositório que reúne minha trajetória em testes técnicos e projetos em grupo.<br/>
-      Inclui provas práticas entregues com Docker, JUnit e Swagger, além de um projeto SSO em equipe.</p>
-      <p>📹 <strong>Vídeos:</strong><br/>
-      <a href="https://youtu.be/oBHAjVWP3jY">Apresentação API Pagamentos</a></p>
+      <h3>🧪 Projeto 1 - Projetos Gravados em Vídeo</h3>
+      <p>🔹 Repositório que reúne minha trajetória em testes técnicos e projetos em grupo, projetos gravados em full time.</p>
       <p>🔗 <strong>GitHub:</strong><br/>
-      <a href="https://github.com/KaioMuniz/pagamentoTesteProvaApi">pagamentoTesteProvaApi</a><br/>
-      <a href="https://github.com/KaioMuniz/pagamentoTesteProvaWeb">pagamentoTesteProvaWeb</a></p>
+      <a href="https://github.com/KaioMuniz/projetosGravadosEmVideo">projetosGravadosEmVideo</a></p>
     </td>
   </tr>
 </table>
+
 
 ---
 
