@@ -2,21 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&speed=50&pause=2000&repeat=true&color=F2CDCD&center=true&width=1000&lines=Ol%C3%A1%2C+sou+Kaio+Muniz!+%F0%9F%91%8B;Desenvolvedor+Full-Stack;apaixonado+por+tecnologia!;Java+%7C+APIs+RESTful;Arquitetura+de+Sistemas+Web" alt="Typing SVG" />
 </p>
 
-### 🚀 Desenvolvedor Full-Stack | Java | APIs RESTful & Arquitetura de Sistemas Web
-
-### 🎓 Formação Acadêmica:
-- **Graduação em Análise e Desenvolvimento de Sistemas (ADS)** pela **Estácio** com especialização em **Análise de Software Full Stack**.
-- **Curso Java Web Developer - Formação FullStack** na **COTI INFORMATICA**, com especialização em **Desenvolvimento de Software Full Stack**.
-
-💻 **Especializações e Foco Atual**:  
-- **Desenvolvimento de APIs RESTful**  
-- **Arquitetura de sistemas web**  
-- **Práticas de código limpo** para soluções escaláveis e de alta qualidade.
-
-🌍 **Nível de Inglês**:  
-- **Nível Técnico**: Habilidade para ler e compreender documentação técnica.  
-
-
+### Dev Fullstack | Java & Spring (Boot, Security, Data JPA, Cloud) | Angular & TS | SQL & NoSQL | TDD, DDD, Clean Arch | REST APIs | Docker, AWS, RabbitMQ | CQRS |
 
 
 ### 🌟 **Experiência Profissional**  
@@ -38,7 +24,14 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
     clique aqui! : Veja minha trajetoria profissional.
 </a>
 
----
+
+### 🎓 Formação Acadêmica:
+- **Graduação em Análise e Desenvolvimento de Sistemas (ADS)** pela **Estácio** com especialização em **Análise de Software Full Stack**.
+- **Curso Java Web Developer - Formação FullStack** na **COTI INFORMATICA**, com especialização em **Desenvolvimento de Software Full Stack**.
+
+
+🌍 **Nível de Inglês**:  
+- **Nível Técnico**: Habilidade para ler e compreender documentação técnica.  
 
 
 ### 📚 **Minhas Referências de Livros**:
@@ -56,7 +49,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
   Uma abordagem para desenvolver software focado no domínio do negócio.
 
 
----
+
 
 <p>
   <a href="https://github.com/KaioMuniz/projeto1">
@@ -98,7 +91,7 @@ A aplicação integra inteligência artificial para realizar triagem inicial de 
 O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao recrutador → comunicação automatizada.</sub>
 </p>
 
----
+
 
 ### 📬 **Vamos Conectar?**
 
