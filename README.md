@@ -123,7 +123,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <h3>Sistema de Recrutamento Inteligente</h3>
+      <h3>Projeto Api Produtos</h3>
       <p>🔹 Esse projeto é uma API RESTful para gerenciamento de produtos e categorias, com recursos adicionais de dashboards (relatórios), feita para demonstrar seu conhecimento em Spring Boot, REST, DTOs, boas práticas de modelagem e documentação com Swagger</p>
       <p>🔗 <strong>GitHub:</strong><br/>
         <a href="https://github.com/KaioMuniz/projetoApiProdutos">projetoApiProdutos</a><br/>
@@ -132,6 +132,42 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 </table>
 
 ---
+
+<table>
+  <tr>
+    <td>
+      <a href="#">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFwN2R1cXNxbWs3b3MwYTE1ZmM0amZkaHhuZWNkaTRzdWhwZHNpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g3D2LXVirbAxGqsmU5/giphy.gif" alt="GIF do projeto" width="360">
+      </a>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <h3>Projeto Api Clientes</h3>
+      <p>🔹 Esse projeto é um serviço RESTful para gerenciamento de clientes, permitindo executar operações de CRUD (Create, Read, Update, Delete) de forma organizada e documentada com Swagger.</p>
+      <p>🔗 <strong>GitHub:</strong><br/>
+        <a href="https://github.com/KaioMuniz/apiClientes">apiClientes</a><br/>
+    </td>
+  </tr>
+</table>
+
+---
+<table>
+  <tr>
+    <td>
+      <a href="#">
+        <img src="" alt="GIF do projeto em andamento" width="360">
+      </a>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <h3>Sistema de Recrutamento Inteligente</h3>
+      <p>🔹 Sistema de Recrutamento Inteligente que automatiza e otimiza o processo de seleção de candidatos do início ao fim.  
+A aplicação integra inteligência artificial para realizar triagem inicial de currículos, enquanto mantém o recrutador no centro da decisão final.  
+O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao recrutador → comunicação automatizada.</p>
+      <p>🔗 <strong>GitHub:</strong><br/>
+        <a href="https://github.com/KaioMuniz/sistemaFeedBackVagasApi">sistemaFeedBackVagasApi</a><br/>
+        <a href="https://github.com/KaioMuniz/sistemaFeedBackVagasWeb">sistemaFeedBackVagasWeb</a><br/>
+    </td>
+  </tr>
+</table>
 
 
 ### 📬 **Vamos Conectar?**
