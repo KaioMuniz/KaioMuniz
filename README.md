@@ -59,7 +59,8 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>🧪 Projetos Gravados em Vídeo</h3>
-      <p>🔹 Repositório que reúne minha trajetória em testes técnicos e projetos em grupo, projetos gravados em full time.</p>
+      <p>🔹 Repositório que reúne minha trajetória em testes técnicos e projetos em grupo.</p>
+      <p> 🔹 Projetos gravados em FULL-TIME.</p>
       <p>🔗 <strong>GitHub:</strong><br/>
       <a href="https://github.com/KaioMuniz/projetosGravadosEmVideo">projetosGravadosEmVideo</a></p>
     </td>
@@ -82,12 +83,9 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>Sistema Agenda & Usuários</h3>
       <p>🔹 Ecossistema completo para gerenciamento de agenda, tarefas e categorias com autenticação de usuários.<br/>
-      Inclui duas APIs em Java (Spring Boot) e dois frontends Angular.</p>
-       <p>📹 <strong>Vídeos:</strong><br/>
-      <a href="https://youtu.be/oBHAjVWP3jY">Apresentação API Pagamentos</a></p>
+      Inclui duas APIs em Java (Spring Boot) e um frontend Angular.</p>
       <p>🔗 <strong>GitHub:</strong><br/>
       <a href="https://github.com/KaioMuniz/agendaApi">agendaApi</a><br/>
-      <a href="https://github.com/KaioMuniz/usuariosApi">usuariosApi</a><br/>
       <a href="https://github.com/KaioMuniz/agendaWeb">agendaWeb</a><br/>
       <a href="https://github.com/KaioMuniz/usuariosWeb">usuariosWeb</a></p>
     </td>
@@ -123,10 +121,10 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
   <tr>
     <td>
       <a href="#">
-        <img src="" alt="Assista ao vídeo" width="360">
+        <img src="" alt="Assista ao vídeo em andamento" width="360">
       </a>
       <a href="#">
-        <img src="" alt="GIF do projeto" width="360">
+        <img src="" alt="GIF do projeto em andamento" width="360">
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
@@ -134,9 +132,9 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
       <p>🔹 Sistema que automatiza e otimiza o processo de seleção de candidatos com apoio de IA.<br/>
       Fluxo estruturado: candidatura → análise IA → apoio ao recrutador → comunicação automatizada.</p>
        <p>📹 <strong>Vídeos:</strong><br/>
-      <a href="https://youtu.be/oBHAjVWP3jY">Apresentação API Pagamentos</a></p>
+      <a href="#">Apresentação API Pagamentos</a></p>
       <p>🔗 <strong>GitHub:</strong><br/>
-      <a href="https://github.com/KaioMuniz/projeto4">projeto4</a></p>
+      <a href="#">projeto em andamento</a></p>
     </td>
   </tr>
 </table>
