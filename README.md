@@ -54,7 +54,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
   <tr>
     <td>
       <a href="#">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHkyODRxcGV4N252a25vZW1kenJtdnBxeXQ2aDZ4anZkOWIxNGE3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5PIHpLP9uYu9IEIly/giphy.gif" alt="GIF do projeto" width="360">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFpNnJ5bTVlazJkc2JoOWMyazBlc2tueXd3NTE1dWFxMHpwaXZ2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4jgZoq3byCoO9wFmH7/giphy.gif" alt="GIF do projeto" width="360">
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
