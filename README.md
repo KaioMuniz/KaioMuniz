@@ -54,7 +54,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
   <tr>
     <td>
       <a href="#">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWI0aXdxbHhsMTBldm1jMDZoOHM2NDBmcmpyaTg2NWF0N2d4ZWEweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FXhIrm5n1xjPVyOgTm/giphy.gif" alt="GIF do projeto" width="360">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHkyODRxcGV4N252a25vZW1kenJtdnBxeXQ2aDZ4anZkOWIxNGE3aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5PIHpLP9uYu9IEIly/giphy.gif" alt="GIF do projeto" width="360">
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
@@ -87,7 +87,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
       <p>🔗 <strong>GitHub:</strong><br/>
       <a href="https://github.com/KaioMuniz/agendaApi">agendaApi</a><br/>
       <a href="https://github.com/KaioMuniz/agendaWeb">agendaWeb</a><br/>
-      <a href="https://github.com/KaioMuniz/usuariosWeb">usuariosWeb</a></p>
+      <a href="https://github.com/KaioMuniz/usuariosApi">usuariosApi</a></p>
     </td>
   </tr>
 </table>
