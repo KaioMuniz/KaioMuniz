@@ -58,7 +58,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <h3>🧪 Projeto 1 - Projetos Gravados em Vídeo</h3>
+      <h3>🧪 Projetos Gravados em Vídeo</h3>
       <p>🔹 Repositório que reúne minha trajetória em testes técnicos e projetos em grupo, projetos gravados em full time.</p>
       <p>🔗 <strong>GitHub:</strong><br/>
       <a href="https://github.com/KaioMuniz/projetosGravadosEmVideo">projetosGravadosEmVideo</a></p>
@@ -80,7 +80,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <h3>🧪 Projeto 2 - Agenda & Usuários (SSO + RabbitMQ)</h3>
+      <h3>Sistema Agenda & Usuários</h3>
       <p>🔹 Ecossistema completo para gerenciamento de agenda, tarefas e categorias com autenticação de usuários.<br/>
       Inclui duas APIs em Java (Spring Boot) e dois frontends Angular.</p>
        <p>📹 <strong>Vídeos:</strong><br/>
@@ -100,23 +100,22 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
   <tr>
     <td>
       <a href="#">
-        <img src="" alt="Assista ao vídeo" width="360">
-      </a>
-      <a href="#">
-        <img src="" alt="GIF do projeto" width="360">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW55eXp5MzdrZ3c5dXNhbjg1MWZqemJ2ZXdramV2MTM5YThqYmprdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6gN3qMHWFZcZanpTym/giphy.gif" alt="GIF do projeto" width="360">
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <h3>🧪 Projeto 3 - Mini-ecossistema Usuários & Contas</h3>
-      <p>🔹 Mini-ecossistema para gestão de usuários e contas com duas APIs em Spring Boot e frontend Angular 20.<br/>
-      Projetado para praticar arquitetura limpa e separação de domínios.</p>
-       <p>📹 <strong>Vídeos:</strong><br/>
-      <a href="https://youtu.be/oBHAjVWP3jY">Apresentação API Pagamentos</a></p>
+      <h3>Sistema Usuários & Contas</h3>
+      <p>🔹 Mini-ecossistema pra gestão de usuários e contas: duas APIs em Java + front em Angular.<br/>
+     </p>
       <p>🔗 <strong>GitHub:</strong><br/>
-      <a href="https://github.com/KaioMuniz/projeto3">projeto3</a></p>
+        <a href="https://github.com/KaioMuniz/sistemaApiUsuarioContas">sistemaApiUsuarioContas</a><br/>
+        <a href="https://github.com/KaioMuniz/sistemaApiContasUsuario">sistemaApiContasUsuario</a><br/>
+        <a href="https://github.com/KaioMuniz/sistemaWebUsuarioContas">sistemaWebUsuarioContas</a>
+      </p>
     </td>
   </tr>
 </table>
+
 
 ---
 
@@ -131,7 +130,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <h3>🧪 Projeto 4 - Sistema de Recrutamento Inteligente</h3>
+      <h3>Sistema de Recrutamento Inteligente</h3>
       <p>🔹 Sistema que automatiza e otimiza o processo de seleção de candidatos com apoio de IA.<br/>
       Fluxo estruturado: candidatura → análise IA → apoio ao recrutador → comunicação automatizada.</p>
        <p>📹 <strong>Vídeos:</strong><br/>
