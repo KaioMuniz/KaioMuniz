@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&speed=50&pause=2000&repeat=true&color=F2CDCD&center=true&width=1000&lines=Ol%C3%A1%2C+sou+Kaio+Muniz!+%F0%9F%91%8B;Desenvolvedor+Full-Stack;apaixonado+por+tecnologia!;Java+%7C+APIs+RESTful;Arquitetura+de+Sistemas+Web" alt="Typing SVG" />
 </p>
 
-Antes de entrar na área de TI, fui pescador, auxiliar de escritorio, vendedor e motorista de aplicativo. Em 2021, decidi que queria ser programador e vendi minha moto para focar 100% nos estudos. Meses depois, conquistei minha primeira vaga e desde então, venho desenvolvendo soluções que tornam o acesso ao mundo dev mais simples.
+Antes de entrar na área de TI, fui Pescador, Arraias Amador e Motonauta. Em 2021, decidi que queria ser programador e vendi meu barco para focar 100% nos estudos. Meses depois, conquistei minha primeira vaga e desde então, venho desenvolvendo soluções que tornam o acesso ao mundo dev mais simples.
 
 
 
@@ -119,16 +119,14 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
   <tr>
     <td>
       <a href="#">
-        <img src="" alt="GIF do projeto em andamento" width="360">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNpNXp6MDY0bDkyMXA1MHBodmEyenVqNjU1emh2NWFyYTBrM2ExZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SMF1d5RxgoMIvUe6Ve/giphy.gif" alt="GIF do projeto em andamento" width="360">
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>Sistema de Recrutamento Inteligente</h3>
-      <p>🔹 Sistema que automatiza e otimiza o processo de seleção de candidatos com apoio de IA.<br/>
-      Fluxo estruturado: candidatura → análise IA → apoio ao recrutador → comunicação automatizada.</p>
+      <p>🔹 Esse projeto é uma API RESTful para gerenciamento de produtos e categorias, com recursos adicionais de dashboards (relatórios), feita para demonstrar seu conhecimento em Spring Boot, REST, DTOs, boas práticas de modelagem e documentação com Swagger</p>
       <p>🔗 <strong>GitHub:</strong><br/>
-        <a href="https://github.com/KaioMuniz/sistemaFeedBackVagasWeb">sistemaFeedBackVagasWeb</a><br/>
-        <a href="https://github.com/KaioMuniz/sistemaFeedBackVagasApi">sistemaFeedBackVagasApi</a><br/>
+        <a href="https://github.com/KaioMuniz/projetoApiProdutos">projetoApiProdutos</a><br/>
     </td>
   </tr>
 </table>
