@@ -2,7 +2,8 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&speed=50&pause=2000&repeat=true&color=F2CDCD&center=true&width=1000&lines=Ol%C3%A1%2C+sou+Kaio+Muniz!+%F0%9F%91%8B;Desenvolvedor+Full-Stack;apaixonado+por+tecnologia!;Java+%7C+APIs+RESTful;Arquitetura+de+Sistemas+Web" alt="Typing SVG" />
 </p>
 
-### Dev Fullstack | Java & Spring (Boot, Security, Data JPA, Cloud) | Angular & TS | SQL & NoSQL | TDD, DDD, Clean Arch | REST APIs | Docker, AWS, RabbitMQ | CQRS |
+Antes de entrar na área de TI, fui pescador, auxiliar de escritorio, vendedor e motorista de aplicativo. Em 2021, decidi que queria ser programador e vendi minha moto para focar 100% nos estudos. Meses depois, conquistei minha primeira vaga e desde então, venho desenvolvendo soluções que tornam o acesso ao mundo dev mais simples.
+
 
 
 ### 🌟 **Experiência Profissional**  
