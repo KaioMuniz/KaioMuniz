@@ -34,7 +34,9 @@ Cada desafio conta com vídeo explicativo no YouTube e código completo no GitHu
     <img src="https://img.shields.io/badge/Projeto%202-%23F2CDCD?style=for-the-badge&logo=github&logoColor=black" />
   </a>  
   <br/>
-  <sub>🔹 Breve descrição do Projeto 2 (ex: Sistema acadêmico com login de alunos e gestão de cursos).</sub>
+  <sub>🔹 Ecossistema completo para gerenciamento de agenda, tarefas e categorias com autenticação de usuários.  
+Inclui duas APIs em Java com Spring Boot (agendaApi e usuariosApi, com suporte a SSO e RabbitMQ) e duas aplicações em Angular (agendaWeb e usuariosWeb).  
+O sistema permite cadastro, login, organização de tarefas e gerenciamento de categorias, com comunicação via API RESTful e integração a banco PostgreSQL.</sub>
 </p>
 
 <p>
@@ -42,7 +44,19 @@ Cada desafio conta com vídeo explicativo no YouTube e código completo no GitHu
     <img src="https://img.shields.io/badge/Projeto%203-%23F2CDCD?style=for-the-badge&logo=github&logoColor=black" />
   </a>  
   <br/>
-  <sub>🔹 Breve descrição do Projeto 3 (ex: Arquitetura monolítica integrando auth, produtos e pedidos).</sub>
+<sub>🔹 Mini-ecossistema para gestão de usuários e contas, composto por duas APIs em Java com Spring Boot e um frontend em Angular 20.  
+Projetado para praticar arquitetura limpa e separação de domínios, cada serviço possui seu próprio repositório, com suporte a Dockerfile e docker-compose para rápida inicialização do ambiente.  
+O frontend em Angular permite interação direta com as APIs, oferecendo uma base escalável para evoluir recursos de autenticação, segurança e observabilidade.</sub>
+</p>
+
+<p>
+  <a href="https://github.com/KaioMuniz/projeto4">
+    <img src="https://img.shields.io/badge/Projeto%203-%23F2CDCD?style=for-the-badge&logo=github&logoColor=black" />
+  </a>  
+  <br/>
+<sub>🔹 Sistema de Recrutamento Inteligente que automatiza e otimiza o processo de seleção de candidatos do início ao fim.  
+A aplicação integra inteligência artificial para realizar triagem inicial de currículos, enquanto mantém o recrutador no centro da decisão final.  
+O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao recrutador → comunicação automatizada.</sub>
 </p>
 
 ---
