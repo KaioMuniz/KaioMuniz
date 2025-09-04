@@ -17,7 +17,46 @@
 - **Nível Técnico**: Habilidade para ler e compreender documentação técnica.  
 
 
+
+
+### 🌟 **Experiência Profissional**  
+
+Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas seguintes áreas:  
+
+- **Back-end**: Java (8 ao 21), Spring Framework (Boot, MVC, Security, Data, Cloud, AOP), JPA/Hibernate, Servidores de Aplicação (JBoss, Tomcat).  
+- **Front-end**: Angular, TypeScript, HTML5, CSS3.  
+- **Bancos de Dados**: SQL (PostgreSQL, MySQL, SQL Server) e NoSQL (MongoDB).  
+- **Autenticação & Autorização**: Spring Security, JWT, OAuth 2.0.  
+- **Mensageria**: RabbitMQ, Kafka.  
+- **Testes & Qualidade**: JUnit, Mockito, Postman, Testes Unitários e de Integração.  
+- **DevOps & Infraestrutura**: Docker, CI/CD (GitHub Actions, Azure DevOps), Cloud (AWS, Azure), Git, GitHub, Maven, Railway.  
+- **Metodologias e Ferramentas de Gestão**: Ágil (Scrum, Kanban), Redmine, Azure DevOps.  
+
+
+
+<a href="https://github.com/KaioMuniz/trajetoriaKaio" target="_blank" class="link-button">
+    clique aqui! : Veja minha trajetoria profissional.
+</a>
+
 ---
+
+
+### 📚 **Minhas Referências de Livros**:
+
+- **MARTIN, Robert C.** **Código Limpo: Habilidades práticas do Agile Software.**  
+  Boas práticas na escrita de código, com foco em clareza, simplicidade e manutenibilidade.
+
+- **MARTIN, Robert C.** **Arquitetura Limpa: O guia do arquiteto de software pragmático.**  
+  Projetar sistemas escaláveis e sustentáveis, mantendo uma arquitetura bem estruturada.
+
+- **HUNT, Andrew; THOMAS, David.** **O Programador Pragmático: De Aprendiz a Mestre.**  
+  Melhores práticas diárias até a resolução de problemas comuns de desenvolvimento.
+
+- **EVANS, Eric.** **Domain-Driven Design: Tackling Complexity in the Heart of Software.**  
+  Uma abordagem para desenvolver software focado no domínio do negócio.
+
+
+
 
 <p>
   <a href="https://github.com/KaioMuniz/projeto1">
@@ -59,47 +98,6 @@ A aplicação integra inteligência artificial para realizar triagem inicial de 
 O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao recrutador → comunicação automatizada.</sub>
 </p>
 
----
-
-
-### 🌟 **Experiência Profissional**  
-
-Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas seguintes áreas:  
-
-- **Back-end**: Java (8 ao 21), Spring Framework (Boot, MVC, Security, Data, Cloud, AOP), JPA/Hibernate, Servidores de Aplicação (JBoss, Tomcat).  
-- **Front-end**: Angular, TypeScript, HTML5, CSS3.  
-- **Bancos de Dados**: SQL (PostgreSQL, MySQL, SQL Server) e NoSQL (MongoDB).  
-- **Autenticação & Autorização**: Spring Security, JWT, OAuth 2.0.  
-- **Mensageria**: RabbitMQ, Kafka.  
-- **Testes & Qualidade**: JUnit, Mockito, Postman, Testes Unitários e de Integração.  
-- **DevOps & Infraestrutura**: Docker, CI/CD (GitHub Actions, Azure DevOps), Cloud (AWS, Azure), Git, GitHub, Maven, Railway.  
-- **Metodologias e Ferramentas de Gestão**: Ágil (Scrum, Kanban), Redmine, Azure DevOps.  
-
-
-
-<a href="https://github.com/KaioMuniz/trajetoriaKaio" target="_blank" class="link-button">
-    clique aqui! : Veja minha trajetoria profissional.
-</a>
-
----
-
-
-### 📚 **Minhas Referências de Livros**:
-
-- **MARTIN, Robert C.** **Código Limpo: Habilidades práticas do Agile Software.**  
-  Boas práticas na escrita de código, com foco em clareza, simplicidade e manutenibilidade.
-
-- **MARTIN, Robert C.** **Arquitetura Limpa: O guia do arquiteto de software pragmático.**  
-  Projetar sistemas escaláveis e sustentáveis, mantendo uma arquitetura bem estruturada.
-
-- **HUNT, Andrew; THOMAS, David.** **O Programador Pragmático: De Aprendiz a Mestre.**  
-  Melhores práticas diárias até a resolução de problemas comuns de desenvolvimento.
-
-- **EVANS, Eric.** **Domain-Driven Design: Tackling Complexity in the Heart of Software.**  
-  Uma abordagem para desenvolver software focado no domínio do negócio.
-
-
----
 
 
 ### 📬 **Vamos Conectar?**
