@@ -56,7 +56,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
   Uma abordagem para desenvolver software focado no domínio do negócio.
 
 
-
+---
 
 <p>
   <a href="https://github.com/KaioMuniz/projeto1">
@@ -98,7 +98,7 @@ A aplicação integra inteligência artificial para realizar triagem inicial de 
 O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao recrutador → comunicação automatizada.</sub>
 </p>
 
-
+---
 
 ### 📬 **Vamos Conectar?**
 
