@@ -48,49 +48,107 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 - **EVANS, Eric.** **Domain-Driven Design: Tackling Complexity in the Heart of Software.**  
   Uma abordagem para desenvolver software focado no domínio do negócio.
 
+## 🚀 Projetos em Destaque  
 
+<table>
+  <tr>
+    <td>
+      <a href="#">
+        <img src="" alt="Assista ao vídeo" width="360">
+      </a>
+      <a href="#">
+        <img src="" alt="GIF do projeto" width="360">
+      </a>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <h3>🧪 Projeto 1 - Testes Técnicos & Projetos em Equipe</h3>
+      <p>🔹 Repositório que reúne minha trajetória em testes técnicos e projetos em grupo.<br/>
+      Inclui provas práticas entregues com Docker, JUnit e Swagger, além de um projeto SSO em equipe.</p>
+      <p>📹 <strong>Vídeos:</strong><br/>
+      <a href="https://youtu.be/oBHAjVWP3jY">Apresentação API Pagamentos</a></p>
+      <p>🔗 <strong>GitHub:</strong><br/>
+      <a href="https://github.com/KaioMuniz/pagamentoTesteProvaApi">pagamentoTesteProvaApi</a><br/>
+      <a href="https://github.com/KaioMuniz/pagamentoTesteProvaWeb">pagamentoTesteProvaWeb</a></p>
+    </td>
+  </tr>
+</table>
 
+---
 
-<p>
-  <a href="https://github.com/KaioMuniz/projeto1">
-    <img src="https://img.shields.io/badge/Projeto%201-%23F2CDCD?style=for-the-badge&logo=github&logoColor=black" />
-  </a>  
-  <br/>
- <sub>🔹 Repositório que reúne minha trajetória em testes técnicos e projetos em equipe.  
-Inclui provas práticas entregues com Docker, JUnit e Swagger, além de um projeto em grupo utilizando Single Sign-On (SSO).  
-Cada desafio conta com vídeo explicativo no YouTube e código completo no GitHub.</sub>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="#">
+        <img src="" alt="Assista ao vídeo" width="360">
+      </a>
+      <a href="#">
+        <img src="" alt="GIF do projeto" width="360">
+      </a>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <h3>🧪 Projeto 2 - Agenda & Usuários (SSO + RabbitMQ)</h3>
+      <p>🔹 Ecossistema completo para gerenciamento de agenda, tarefas e categorias com autenticação de usuários.<br/>
+      Inclui duas APIs em Java (Spring Boot) e dois frontends Angular.</p>
+       <p>📹 <strong>Vídeos:</strong><br/>
+      <a href="https://youtu.be/oBHAjVWP3jY">Apresentação API Pagamentos</a></p>
+      <p>🔗 <strong>GitHub:</strong><br/>
+      <a href="https://github.com/KaioMuniz/agendaApi">agendaApi</a><br/>
+      <a href="https://github.com/KaioMuniz/usuariosApi">usuariosApi</a><br/>
+      <a href="https://github.com/KaioMuniz/agendaWeb">agendaWeb</a><br/>
+      <a href="https://github.com/KaioMuniz/usuariosWeb">usuariosWeb</a></p>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <a href="https://github.com/KaioMuniz/projeto2">
-    <img src="https://img.shields.io/badge/Projeto%202-%23F2CDCD?style=for-the-badge&logo=github&logoColor=black" />
-  </a>  
-  <br/>
-  <sub>🔹 Ecossistema completo para gerenciamento de agenda, tarefas e categorias com autenticação de usuários.  
-Inclui duas APIs em Java com Spring Boot (agendaApi e usuariosApi, com suporte a SSO e RabbitMQ) e duas aplicações em Angular (agendaWeb e usuariosWeb).  
-O sistema permite cadastro, login, organização de tarefas e gerenciamento de categorias, com comunicação via API RESTful e integração a banco PostgreSQL.</sub>
-</p>
+---
 
-<p>
-  <a href="https://github.com/KaioMuniz/projeto3">
-    <img src="https://img.shields.io/badge/Projeto%203-%23F2CDCD?style=for-the-badge&logo=github&logoColor=black" />
-  </a>  
-  <br/>
-<sub>🔹 Mini-ecossistema para gestão de usuários e contas, composto por duas APIs em Java com Spring Boot e um frontend em Angular 20.  
-Projetado para praticar arquitetura limpa e separação de domínios, cada serviço possui seu próprio repositório, com suporte a Dockerfile e docker-compose para rápida inicialização do ambiente.  
-O frontend em Angular permite interação direta com as APIs, oferecendo uma base escalável para evoluir recursos de autenticação, segurança e observabilidade.</sub>
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="#">
+        <img src="" alt="Assista ao vídeo" width="360">
+      </a>
+      <a href="#">
+        <img src="" alt="GIF do projeto" width="360">
+      </a>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <h3>🧪 Projeto 3 - Mini-ecossistema Usuários & Contas</h3>
+      <p>🔹 Mini-ecossistema para gestão de usuários e contas com duas APIs em Spring Boot e frontend Angular 20.<br/>
+      Projetado para praticar arquitetura limpa e separação de domínios.</p>
+       <p>📹 <strong>Vídeos:</strong><br/>
+      <a href="https://youtu.be/oBHAjVWP3jY">Apresentação API Pagamentos</a></p>
+      <p>🔗 <strong>GitHub:</strong><br/>
+      <a href="https://github.com/KaioMuniz/projeto3">projeto3</a></p>
+    </td>
+  </tr>
+</table>
 
-<p>
-  <a href="https://github.com/KaioMuniz/projeto4">
-    <img src="https://img.shields.io/badge/Projeto%203-%23F2CDCD?style=for-the-badge&logo=github&logoColor=black" />
-  </a>  
-  <br/>
-<sub>🔹 Sistema de Recrutamento Inteligente que automatiza e otimiza o processo de seleção de candidatos do início ao fim.  
-A aplicação integra inteligência artificial para realizar triagem inicial de currículos, enquanto mantém o recrutador no centro da decisão final.  
-O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao recrutador → comunicação automatizada.</sub>
-</p>
+---
 
+<table>
+  <tr>
+    <td>
+      <a href="#">
+        <img src="" alt="Assista ao vídeo" width="360">
+      </a>
+      <a href="#">
+        <img src="" alt="GIF do projeto" width="360">
+      </a>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <h3>🧪 Projeto 4 - Sistema de Recrutamento Inteligente</h3>
+      <p>🔹 Sistema que automatiza e otimiza o processo de seleção de candidatos com apoio de IA.<br/>
+      Fluxo estruturado: candidatura → análise IA → apoio ao recrutador → comunicação automatizada.</p>
+       <p>📹 <strong>Vídeos:</strong><br/>
+      <a href="https://youtu.be/oBHAjVWP3jY">Apresentação API Pagamentos</a></p>
+      <p>🔗 <strong>GitHub:</strong><br/>
+      <a href="https://github.com/KaioMuniz/projeto4">projeto4</a></p>
+    </td>
+  </tr>
+</table>
+
+---
 
 
 ### 📬 **Vamos Conectar?**
