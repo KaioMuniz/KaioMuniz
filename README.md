@@ -119,9 +119,6 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
   <tr>
     <td>
       <a href="#">
-        <img src="" alt="Assista ao vídeo em andamento" width="360">
-      </a>
-      <a href="#">
         <img src="" alt="GIF do projeto em andamento" width="360">
       </a>
     </td>
@@ -129,8 +126,6 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
       <h3>Sistema de Recrutamento Inteligente</h3>
       <p>🔹 Sistema que automatiza e otimiza o processo de seleção de candidatos com apoio de IA.<br/>
       Fluxo estruturado: candidatura → análise IA → apoio ao recrutador → comunicação automatizada.</p>
-       <p>📹 <strong>Vídeos:</strong><br/>
-      <a href="#">Apresentação API Pagamentos</a></p>
       <p>🔗 <strong>GitHub:</strong><br/>
         <a href="https://github.com/KaioMuniz/sistemaFeedBackVagasWeb">sistemaFeedBackVagasWeb</a><br/>
         <a href="https://github.com/KaioMuniz/sistemaFeedBackVagasApi">sistemaFeedBackVagasApi</a><br/>
