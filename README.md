@@ -105,7 +105,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>Sistema Usuários & Contas</h3>
-      <p>🔹 Mini-ecossistema pra gestão de usuários e contas: duas APIs em Java + front em Angular.<br/>
+      <p>🔹 Sistema pra gestão de usuários e contas: duas APIs em Java + front em Angular.<br/>
      </p>
       <p>🔗 <strong>GitHub:</strong><br/>
         <a href="https://github.com/KaioMuniz/sistemaApiUsuarioContas">sistemaApiUsuarioContas</a><br/>
