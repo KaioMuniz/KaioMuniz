@@ -57,7 +57,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
         <img src="" alt="Assista ao vídeo" width="360">
       </a>
       <a href="#">
-        <img src="" alt="GIF do projeto" width="360">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWI0aXdxbHhsMTBldm1jMDZoOHM2NDBmcmpyaTg2NWF0N2d4ZWEweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FXhIrm5n1xjPVyOgTm/giphy.gif" alt="GIF do projeto" width="360">
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
