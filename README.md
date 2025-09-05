@@ -113,6 +113,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 </table>
 
 ---
+
 <table>
   <tr>
     <td>
@@ -131,7 +132,9 @@ O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao 
     </td>
   </tr>
 </table>
+
 ---
+
 <table>
   <tr>
     <td>
@@ -148,6 +151,7 @@ O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao 
     </td>
   </tr>
 </table>
+
 ---
 
 <table>
@@ -185,6 +189,7 @@ O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao 
   </tr>
 </table>
 
+---
 
 
 
