@@ -127,6 +127,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
       <p>🔹 Esse projeto é uma API RESTful para gerenciamento de produtos e categorias, com recursos adicionais de dashboards (relatórios), feita para demonstrar seu conhecimento em Spring Boot, REST, DTOs, boas práticas de modelagem e documentação com Swagger</p>
       <p>🔗 <strong>GitHub:</strong><br/>
         <a href="https://github.com/KaioMuniz/projetoApiProdutos">projetoApiProdutos</a><br/>
+        <a href="https://github.com/KaioMuniz/projetoApiPedidosWorker">projetoApiPedidosWorker</a><br/>
     </td>
   </tr>
 </table>
