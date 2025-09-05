@@ -100,13 +100,13 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <h3>Sistema Usuários & Contas</h3>
-      <p>🔹 Sistema pra gestão de usuários e contas: duas APIs em Java + front em Angular.<br/>
+      <h3>Sistema Usuários & Finanças</h3>
+      <p>🔹 Sistema pra finanças de usuários e finanças: duas APIs em Java + front em Angular.<br/>
      </p>
       <p>🔗 <strong>GitHub:</strong><br/>
-        <a href="https://github.com/KaioMuniz/sistemaApiUsuarioContas">sistemaApiUsuarioContas</a><br/>
-        <a href="https://github.com/KaioMuniz/sistemaApiContasUsuario">sistemaApiContasUsuario</a><br/>
-        <a href="https://github.com/KaioMuniz/sistemaWebUsuarioContas">sistemaWebUsuarioContas</a>
+        <a href="https://github.com/KaioMuniz/projetoUsuariosApi">projetoUsuariosApi</a><br/>
+        <a href="https://github.com/KaioMuniz/projetoFinancasApi">projetoFinancasApi</a><br/>
+        <a href="https://github.com/KaioMuniz/projetoFinancasWeb">projetoFinancasWeb</a>
       </p>
     </td>
   </tr>
