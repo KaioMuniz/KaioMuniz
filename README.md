@@ -112,7 +112,42 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
   </tr>
 </table>
 
-
+---
+<table>
+  <tr>
+    <td>
+      <a href="#">
+        <img src="" alt="GIF do projeto em andamento" width="360">
+      </a>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <h3>Sistema de Recrutamento Inteligente</h3>
+      <p>🔹 Sistema de Recrutamento Inteligente que automatiza e otimiza o processo de seleção de candidatos do início ao fim.  
+A aplicação integra inteligência artificial para realizar triagem inicial de currículos, enquanto mantém o recrutador no centro da decisão final.  
+O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao recrutador → comunicação automatizada.</p>
+      <p>🔗 <strong>GitHub:</strong><br/>
+        <a href="https://github.com/KaioMuniz/sistemaFeedBackVagasApi">sistemaFeedBackVagasApi</a><br/>
+        <a href="https://github.com/KaioMuniz/sistemaFeedBackVagasWeb">sistemaFeedBackVagasWeb</a><br/>
+    </td>
+  </tr>
+</table>
+---
+<table>
+  <tr>
+    <td>
+      <a href="#">
+        <img src="" alt="GIF do projeto" width="360">
+      </a>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <h3>Sistema de Usuarios BACK+FRONT</h3>
+      <p>🔹 Sistema de gerenciamento de usuários. O sistema possibilita o cadastro, edição e remoção de usuários, entre outras funcionalidades.</p>
+      <p>🔗 <strong>GitHub:</strong><br/>
+        <a href="https://github.com/KaioMuniz/usuariosApi">usuariosApi</a><br/>
+        <a href="https://github.com/KaioMuniz/usuariosWeb">usuariosWeb</a><br/>
+    </td>
+  </tr>
+</table>
 ---
 
 <table>
@@ -150,25 +185,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
   </tr>
 </table>
 
----
-<table>
-  <tr>
-    <td>
-      <a href="#">
-        <img src="" alt="GIF do projeto em andamento" width="360">
-      </a>
-    </td>
-    <td style="vertical-align: top; padding-left: 20px;">
-      <h3>Sistema de Recrutamento Inteligente</h3>
-      <p>🔹 Sistema de Recrutamento Inteligente que automatiza e otimiza o processo de seleção de candidatos do início ao fim.  
-A aplicação integra inteligência artificial para realizar triagem inicial de currículos, enquanto mantém o recrutador no centro da decisão final.  
-O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao recrutador → comunicação automatizada.</p>
-      <p>🔗 <strong>GitHub:</strong><br/>
-        <a href="https://github.com/KaioMuniz/sistemaFeedBackVagasApi">sistemaFeedBackVagasApi</a><br/>
-        <a href="https://github.com/KaioMuniz/sistemaFeedBackVagasWeb">sistemaFeedBackVagasWeb</a><br/>
-    </td>
-  </tr>
-</table>
+
 
 
 ### 📬 **Vamos Conectar?**
