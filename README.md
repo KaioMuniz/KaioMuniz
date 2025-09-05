@@ -139,7 +139,7 @@ O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao 
   <tr>
     <td>
       <a href="#">
-        <img src="" alt="GIF do projeto" width="360">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdsams3YndmaHNhaHpubWQ2N25hbXc2djR3NXFqMHh0cmZjbGIwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tPibs7IGE1A6EpGbIp/giphy.gif" alt="GIF do projeto" width="360">
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
