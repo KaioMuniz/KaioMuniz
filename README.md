@@ -118,7 +118,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
   <tr>
     <td>
       <a href="#">
-        <img src="" alt="GIF do projeto em andamento" width="360">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXVybXQybnlsNGRlY3oxcmw4MGxvdHdxZmxtY2k4cTFod2RkNnRsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e6JyQFMTrwc6GgtxKd/giphy.gif" alt="GIF do projeto" width="360">
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
