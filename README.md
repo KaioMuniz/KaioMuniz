@@ -147,7 +147,7 @@ O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao 
       <p>🔹 Sistema de gerenciamento de usuários. O sistema possibilita o cadastro, edição e remoção de usuários, entre outras funcionalidades.</p>
       <p>🔗 <strong>GitHub:</strong><br/>
         <a href="https://github.com/KaioMuniz/usuariosApi">usuariosApi</a><br/>
-        <a href="https://github.com/KaioMuniz/usuariosWeb">usuariosWeb</a><br/>
+        <a href="https://github.com/KaioMuniz/usuarioWeb">usuariosWeb</a><br/>
     </td>
   </tr>
 </table>
