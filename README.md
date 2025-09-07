@@ -109,7 +109,7 @@ Inclui duas APIs em Java (Spring Boot) e um frontend Angular.<br/>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>Sistema de Recrutamento Inteligente</h3>
-      <p>🔹 Ecossistema de Recrutamento Inteligente que automatiza e otimiza o processo de seleção de candidatos do início ao fim.  
+      <p>🔹 Ecossistema completo de Recrutamento Inteligente que automatiza e otimiza o processo de seleção de candidatos do início ao fim.  
 A aplicação integra inteligência artificial para realizar triagem inicial de currículos, enquanto mantém o recrutador no centro da decisão final.  
 O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao recrutador → comunicação automatizada.</p>
       <p>🔹PROJETO EM ANDAMENTO</p>
@@ -131,7 +131,7 @@ O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao 
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>Sistema de Usuarios BACK+FRONT</h3>
-      <p>🔹 Ecossistema de gerenciamento de usuários. O sistema possibilita o cadastro, edição e remoção de usuários, entre outras funcionalidades.</p>
+      <p>🔹 Ecossistema parcial de gerenciamento de usuários. O sistema possibilita o cadastro, edição e remoção de usuários, entre outras funcionalidades.</p>
       <P>🔹 Base para qualquer Ecossistema em produção</P>
       <p>🔗 <strong>GitHub:</strong><br/>
         <a href="https://github.com/KaioMuniz/usuariosApi">usuariosApi</a><br/>
