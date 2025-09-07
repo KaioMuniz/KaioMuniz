@@ -191,7 +191,24 @@ O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao 
 
 ---
 
+<table>
+  <tr>
+    <td>
+      <a href="#">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHR6NmllZjEzbXdkM3B3OHkwODZ5MWl2YXZoZW02ZXZ0dGswZ2JtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8EdwsSchNskePgRqUS/giphy.gif" alt="GIF do projeto" width="360">
+      </a>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <h3>Projeto Api Clientes</h3>
+      <p>🔹 Esse projeto é um serviço RESTful para gerenciamento de musicas, permitindo executar operações de CRUD (Create, Read, Update, Delete) de forma organizada e documentada com Swagger. Uma API em Java + front em Angular .</p>
+      <p>🔗 <strong>GitHub:</strong><br/>
+        <a href="https://github.com/KaioMuniz/projetoCrudAngularFinalDeSemana01">projetoCrudAngularFinalDeSemana01</a><br/>
+        <a href="https://github.com/KaioMuniz/projetoCrudJavaFinalDeSemana01">projetoCrudJavaFinalDeSemana01</a><br/>
+    </td>
+  </tr>
+</table>
 
+---
 
 ### 📬 **Vamos Conectar?**
 
