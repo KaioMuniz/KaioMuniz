@@ -82,7 +82,8 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>Sistema Usuários & Finanças</h3>
-      <p>🔹 Sistema pra finanças de usuários e finanças: duas APIs em Java + front em Angular.<br/>
+      <p>🔹 Ecossistema completo para gerenciamento de finanças, movimentações e contas com autenticação de usuários.
+Inclui duas APIs em Java (Spring Boot) e um frontend Angular.<br/>
      </p>
       <p>🔗 <strong>GitHub:</strong><br/>
         <a href="https://github.com/KaioMuniz/projetoUsuariosApi">projetoUsuariosApi</a><br/>
@@ -104,9 +105,10 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>Sistema de Recrutamento Inteligente</h3>
-      <p>🔹 Sistema de Recrutamento Inteligente que automatiza e otimiza o processo de seleção de candidatos do início ao fim.  
+      <p>🔹 Ecossistema de Recrutamento Inteligente que automatiza e otimiza o processo de seleção de candidatos do início ao fim.  
 A aplicação integra inteligência artificial para realizar triagem inicial de currículos, enquanto mantém o recrutador no centro da decisão final.  
 O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao recrutador → comunicação automatizada.</p>
+      <p>🔹PROJETO EM ANDAMENTO</p>
       <p>🔗 <strong>GitHub:</strong><br/>
         <a href="https://github.com/KaioMuniz/sistemaFeedBackVagasApi">sistemaFeedBackVagasApi</a><br/>
         <a href="https://github.com/KaioMuniz/sistemaFeedBackVagasWeb">sistemaFeedBackVagasWeb</a><br/>
@@ -125,7 +127,8 @@ O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao 
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>Sistema de Usuarios BACK+FRONT</h3>
-      <p>🔹 Sistema de gerenciamento de usuários. O sistema possibilita o cadastro, edição e remoção de usuários, entre outras funcionalidades.</p>
+      <p>🔹 Ecossistema de gerenciamento de usuários. O sistema possibilita o cadastro, edição e remoção de usuários, entre outras funcionalidades.</p>
+      <P>🔹 Base para qualquer Ecossistema em produção</P>
       <p>🔗 <strong>GitHub:</strong><br/>
         <a href="https://github.com/KaioMuniz/usuariosApi">usuariosApi</a><br/>
         <a href="https://github.com/KaioMuniz/usuarioWeb">usuariosWeb</a><br/>
@@ -146,7 +149,7 @@ O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao 
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>🧪 Projetos Gravados em Vídeo</h3>
       <p>🔹 Repositório que reúne minha trajetória em testes técnicos e projetos em grupo.</p>
-      <p> 🔹 Projetos gravados em FULL-TIME.</p>
+      <p>🔹 Projetos gravados em FULL-TIME.</p>
       <p>🔗 <strong>GitHub:</strong><br/>
       <a href="https://github.com/KaioMuniz/projetosGravadosEmVideo">projetosGravadosEmVideo</a></p>
     </td>
