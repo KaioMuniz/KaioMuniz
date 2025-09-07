@@ -51,25 +51,6 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 
 ## 🚀 Projetos em Destaque  
 
-<table>
-  <tr>
-    <td>
-      <a href="#">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFpNnJ5bTVlazJkc2JoOWMyazBlc2tueXd3NTE1dWFxMHpwaXZ2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4jgZoq3byCoO9wFmH7/giphy.gif" alt="GIF do projeto" width="360">
-      </a>
-    </td>
-    <td style="vertical-align: top; padding-left: 20px;">
-      <h3>🧪 Projetos Gravados em Vídeo</h3>
-      <p>🔹 Repositório que reúne minha trajetória em testes técnicos e projetos em grupo.</p>
-      <p> 🔹 Projetos gravados em FULL-TIME.</p>
-      <p>🔗 <strong>GitHub:</strong><br/>
-      <a href="https://github.com/KaioMuniz/projetosGravadosEmVideo">projetosGravadosEmVideo</a></p>
-    </td>
-  </tr>
-</table>
-
-
----
 
 <table>
   <tr>
@@ -90,7 +71,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
   </tr>
 </table>
 
----
+
 
 <table>
   <tr>
@@ -112,7 +93,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
   </tr>
 </table>
 
----
+
 
 <table>
   <tr>
@@ -133,7 +114,7 @@ O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao 
   </tr>
 </table>
 
----
+
 
 <table>
   <tr>
@@ -152,7 +133,29 @@ O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao 
   </tr>
 </table>
 
+
+
+
+<table>
+  <tr>
+    <td>
+      <a href="#">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFpNnJ5bTVlazJkc2JoOWMyazBlc2tueXd3NTE1dWFxMHpwaXZ2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4jgZoq3byCoO9wFmH7/giphy.gif" alt="GIF do projeto" width="360">
+      </a>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <h3>🧪 Projetos Gravados em Vídeo</h3>
+      <p>🔹 Repositório que reúne minha trajetória em testes técnicos e projetos em grupo.</p>
+      <p> 🔹 Projetos gravados em FULL-TIME.</p>
+      <p>🔗 <strong>GitHub:</strong><br/>
+      <a href="https://github.com/KaioMuniz/projetosGravadosEmVideo">projetosGravadosEmVideo</a></p>
+    </td>
+  </tr>
+</table>
+
+
 ---
+## 🚀 Projetos NÃO-RELEVANTES  
 
 <table>
   <tr>
@@ -171,7 +174,7 @@ O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao 
   </tr>
 </table>
 
----
+
 
 <table>
   <tr>
@@ -189,7 +192,6 @@ O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao 
   </tr>
 </table>
 
----
 
 <table>
   <tr>
