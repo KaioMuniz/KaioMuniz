@@ -49,7 +49,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 - **EVANS, Eric.** **Domain-Driven Design: Tackling Complexity in the Heart of Software.**  
   Uma abordagem para desenvolver software focado no domínio do negócio.
 
-## 🚀 Projetos em Destaque  
+## Projetos RELEVANTES  
 
 
 <table>
