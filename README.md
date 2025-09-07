@@ -81,7 +81,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <h3>Sistema Usuários & Finanças</h3>
+      <h3>Sistema Finanças & Usuários</h3>
       <p>🔹 Ecossistema completo para gerenciamento de finanças, movimentações e contas com autenticação de usuários.
 Inclui duas APIs em Java (Spring Boot) e um frontend Angular.<br/>
      </p>
