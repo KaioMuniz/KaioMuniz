@@ -199,7 +199,7 @@ O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao 
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <h3>Projeto Api Clientes</h3>
+      <h3>Projeto CRUD Musicas JAVA+ANGULAR </h3>
       <p>🔹 Esse projeto é um serviço RESTful para gerenciamento de musicas, permitindo executar operações de CRUD (Create, Read, Update, Delete) de forma organizada e documentada com Swagger. Uma API em Java + front em Angular .</p>
       <p>🔗 <strong>GitHub:</strong><br/>
         <a href="https://github.com/KaioMuniz/projetoCrudAngularFinalDeSemana01">projetoCrudAngularFinalDeSemana01</a><br/>
