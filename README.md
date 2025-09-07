@@ -1,6 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&speed=50&pause=2000&repeat=true&color=F2CDCD&center=true&width=1000&lines=Ol%C3%A1%2C+sou+Kaio+Muniz!+%F0%9F%91%8B;Desenvolvedor+Full-Stack;apaixonado+por+tecnologia!;Java+%7C+APIs+RESTful;Arquitetura+de+Sistemas+Web" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2500&pause=1200&color=89CFF0&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+sou+Kaio+Muniz!+%F0%9F%91%8B;Desenvolvedor+Full-Stack+%F0%9F%92%BB;Apaixonado+por+Jesus+%E2%9D%A4%EF%B8%8F;Pescador+de+Homens+%F0%9F%9A%A3;Temente+a+Deus+%F0%9F%99%8F" 
+    alt="Typing SVG" 
+  />
 </p>
+
 
 Antes de entrar na área de TI, fui Pescador, Arraias Amador e Motonauta. Em 2021, decidi que queria ser programador e vendi meu barco para focar 100% nos estudos. Meses depois, conquistei minha primeira vaga e desde então, venho desenvolvendo soluções que tornam o acesso ao mundo dev mais simples.
 
