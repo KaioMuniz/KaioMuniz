@@ -162,7 +162,7 @@ O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao 
 
 
 ---
-## 🚀 Projetos NÃO-RELEVANTES  
+## Projetos NÃO-RELEVANTES  
 
 <table>
   <tr>
