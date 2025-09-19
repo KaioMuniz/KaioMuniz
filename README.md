@@ -26,7 +26,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 
 
 <a href="https://github.com/KaioMuniz/trajetoriaKaio" target="_blank" class="link-button">
-    clique aqui! : Veja minha trajetoria profissional.
+    📌 Ver minha trajetória profissional e acadêmica
 </a>
 
 
