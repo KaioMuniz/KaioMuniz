@@ -68,6 +68,28 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
       <p>🔹 Ecossistema completo para gerenciamento de agenda, tarefas e categorias com autenticação de usuários.<br/>
       Inclui duas APIs em Java (Spring Boot) e um frontend Angular.</p>
       <p>🔗 <strong>GitHub:</strong><br/>
+      <a href="https://github.com/KaioMuniz/sistemaAgendaTarefaJavaSpringBootApi">sistemaAgendaTarefaJavaSpringBootApi</a><br/>
+      <a href="https://github.com/KaioMuniz/sistemaAngularKaioMunizWeb">sistemaAngularKaioMunizWeb</a><br/>
+      <a href="https://github.com/KaioMuniz/sistemaLoginUsuariosJavaSpringBootApi">sistemaLoginUsuariosJavaSpringBootApi</a></p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+<table>
+  <tr>
+    <td>
+      <a href="#">
+        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZhYnZyNm56cG1kZ3FhMjZzNGptbHAzMWJ4eGM0N3Z2cmplZHB5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sAc0FGbH4gg62vIRuL/giphy.gif" alt="GIF do projeto" width="360">
+      </a>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <h3>Sistema Agenda & Usuários</h3>
+      <p>🔹 Ecossistema completo para gerenciamento de agenda, tarefas e categorias com autenticação de usuários.<br/>
+      Inclui duas APIs em Java (Spring Boot) e um frontend Angular.</p>
+      <p>🔗 <strong>GitHub:</strong><br/>
       <a href="https://github.com/KaioMuniz/agendaApi">agendaApi</a><br/>
       <a href="https://github.com/KaioMuniz/agendaWeb">agendaWeb</a><br/>
       <a href="https://github.com/KaioMuniz/usuariosApi">usuariosApi</a></p>
