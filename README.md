@@ -66,7 +66,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <h3>Sistema Agenda & Usuários</h3>
+      <h3>O Peskaio</h3>
       <p>
       <p>🔹O Peskaio é mais do que um app: é um mapa de pesca inteligente e uma rede social para pescadores.</p>
         <p> 🔹O projeto foi desenvolvida em Java e Angular, utilizando Google Maps para o orquestramento dos pontos de pesca e Google API para login.</p>
@@ -74,6 +74,9 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
              <p>👥 <strong>Contribuidores:</strong><br/></p>
         <a href="https://github.com/RobertPorteles">Github: RobertPorteles</a><br/>
         <a href="https://github.com/joaomarqu3ss">Github: joaomarqu3ss</a>
+      </p>
+   <p>📹 <strong>Vídeo explicando:</strong><br/>
+        <a href="">https://youtu.be/a5LQhYKkElM</a>
       </p>
       </p>
       <p>🔗 <strong>GitHub:</strong><br/>
