@@ -53,6 +53,41 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 - **EVANS, Eric.** **Domain-Driven Design: Tackling Complexity in the Heart of Software.**  
   Uma abordagem para desenvolver software focado no domínio do negócio.
 
+
+## Startup : Empresa Emergente 
+
+
+
+<table>
+  <tr>
+    <td>
+      <a href="#">
+        <img width="1410" height="790" alt="Captura de tela 2025-10-02 142047" src="https://github.com/user-attachments/assets/7bdac33d-625b-46d5-8867-b22802a652e8" />
+      </a>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <h3>Sistema Agenda & Usuários</h3>
+      <p>
+      <p>🔹O Peskaio é mais do que um app: é um mapa de pesca inteligente e uma rede social para pescadores.</p>
+        <p> 🔹O projeto foi desenvolvida em Java e Angular, utilizando Google Maps para o orquestramento dos pontos de pesca e Google API para login.</p>
+         <p>🔹Projeto em andamento, procurando investidores.</p>
+             <p>👥 <strong>Contribuidores:</strong><br/></p>
+        <a href="https://github.com/RobertPorteles">Github: RobertPorteles</a><br/>
+        <a href="https://github.com/joaomarqu3ss">Github: joaomarqu3ss</a>
+      </p>
+      </p>
+      <p>🔗 <strong>GitHub:</strong><br/>
+      <a href="https://github.com/joaomarqu3ss/oauth2login">oauth2login</a><br/>
+      <a href="https://github.com/joaomarqu3ss/apiPeskaio">apiPeskaio</a><br/>
+      <a href="https://github.com/RobertPorteles/FisheyeWeb">FisheyeWeb</a></p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 ## Projetos RELEVANTES  
 
 
