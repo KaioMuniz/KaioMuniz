@@ -62,7 +62,10 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
   <tr>
     <td>
       <a href="#">
-        <img width="1410" height="790" alt="Captura de tela 2025-10-02 142047" src="https://github.com/user-attachments/assets/7bdac33d-625b-46d5-8867-b22802a652e8" />
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdjbndtMnF1cGhtZDRleTJ6NHRzaml1ZG9oMzhsZHM0aHoweTk0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qbfjteFmaq0QFuP1J4/giphy.gif" alt="Assista ao vídeo" width="360">
+    </a>
+       <a href="#">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdka2ZhMWp2NnByczRwZ3Z0dTMxc3l0MGVjOWR4eDBjZGY0NDZwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x7oJlcW9QZFguffXCS/giphy.gif">
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
