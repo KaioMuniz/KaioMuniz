@@ -119,8 +119,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 </table>
 
 
-
-
+<!--
 <table>
   <tr>
     <td>
@@ -139,6 +138,8 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
     </td>
   </tr>
 </table>
+-->
+
 
 
 
