@@ -84,7 +84,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
         <a href="">https://youtu.be/a5LQhYKkElM</a>
       </p>
       </p>
-      <p>🔗 <strong>GitHub:</strong><br/>
+      <p>🔗 <strong>GitHub:(privado)</strong><br/>
       <a href="https://github.com/joaomarqu3ss/oauth2login">oauth2login</a><br/>
       <a href="https://github.com/joaomarqu3ss/apiPeskaio">apiPeskaio</a><br/>
       <a href="https://github.com/RobertPorteles/FisheyeWeb">FisheyeWeb</a></p>
