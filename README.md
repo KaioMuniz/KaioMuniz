@@ -57,16 +57,18 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 ## Startup : Empresa Emergente 
 
 
-
 <table>
   <tr>
     <td>
-      <a href="#">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTdjbndtMnF1cGhtZDRleTJ6NHRzaml1ZG9oMzhsZHM0aHoweTk0ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qbfjteFmaq0QFuP1J4/giphy.gif" alt="Assista ao vídeo" width="360">
-    </a>
        <a href="#">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdka2ZhMWp2NnByczRwZ3Z0dTMxc3l0MGVjOWR4eDBjZGY0NDZwdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x7oJlcW9QZFguffXCS/giphy.gif">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazF5OHFmaWF1azNmOGE3bDdicXVnaXRpMTB1ODAycnB5ZmI0dmliZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrF6tc52y6WL8Y9GrS/giphy.gif" alt="Assista ao vídeo" width="500">
       </a>
+   <p align="center">
+  <img src="https://github.com/user-attachments/assets/2a1078cc-6b5d-4039-82d3-b84e09bc53fd" 
+       alt="Banner da Startup Peskaio" 
+       width="500"
+       style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</p>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>O Peskaio</h3>
