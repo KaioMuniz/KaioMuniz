@@ -61,12 +61,12 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
   <tr>
     <td>
        <a href="#">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazF5OHFmaWF1azNmOGE3bDdicXVnaXRpMTB1ODAycnB5ZmI0dmliZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrF6tc52y6WL8Y9GrS/giphy.gif" alt="Assista ao vídeo" width="500">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazF5OHFmaWF1azNmOGE3bDdicXVnaXRpMTB1ODAycnB5ZmI0dmliZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CrF6tc52y6WL8Y9GrS/giphy.gif" alt="Assista ao vídeo" width="360">
       </a>
    <p align="center">
   <img src="https://github.com/user-attachments/assets/2a1078cc-6b5d-4039-82d3-b84e09bc53fd" 
        alt="Banner da Startup Peskaio" 
-       width="500"
+       width="360"
        style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
 </p>
     </td>
@@ -227,58 +227,18 @@ O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao 
 </table>
 
 
----
-## Projetos NÃO-RELEVANTES  
-
 <table>
   <tr>
     <td>
       <a href="#">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNpNXp6MDY0bDkyMXA1MHBodmEyenVqNjU1emh2NWFyYTBrM2ExZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SMF1d5RxgoMIvUe6Ve/giphy.gif" alt="GIF do projeto em andamento" width="360">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG9tM2cxaWhlcmk5eDd5YmtnZG42eGpyYWhiNWhhM3FwM3k4MTlvZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IKaAtnycSn15XSctGc/giphy.gif" alt="GIF do projeto" width="360">
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <h3>Projeto Api Produtos</h3>
-      <p>🔹 Esse projeto é uma API RESTful para gerenciamento de produtos e categorias, com recursos adicionais de dashboards (relatórios), feita para demonstrar seu conhecimento em Spring Boot, REST, DTOs, boas práticas de modelagem e documentação com Swagger</p>
+      <h3>Projetos Não Relevantes</h3>
+      <p>🔹 Repositório que reúne minha trajetória de estudos com projeto de regras de negocios aleatórias.</p>
       <p>🔗 <strong>GitHub:</strong><br/>
-        <a href="https://github.com/KaioMuniz/projetoApiProdutos">projetoApiProdutos</a><br/>
-        <a href="https://github.com/KaioMuniz/projetoApiPedidosWorker">projetoApiPedidosWorker</a><br/>
-    </td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-    <td>
-      <a href="#">
-        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDFwN2R1cXNxbWs3b3MwYTE1ZmM0amZkaHhuZWNkaTRzdWhwZHNpYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g3D2LXVirbAxGqsmU5/giphy.gif" alt="GIF do projeto" width="360">
-      </a>
-    </td>
-    <td style="vertical-align: top; padding-left: 20px;">
-      <h3>Projeto Api Clientes</h3>
-      <p>🔹 Esse projeto é um serviço RESTful para gerenciamento de clientes, permitindo executar operações de CRUD (Create, Read, Update, Delete) de forma organizada e documentada com Swagger.</p>
-      <p>🔗 <strong>GitHub:</strong><br/>
-        <a href="https://github.com/KaioMuniz/apiClientes">apiClientes</a><br/>
-    </td>
-  </tr>
-</table>
-
-
-<table>
-  <tr>
-    <td>
-      <a href="#">
-        <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHR6NmllZjEzbXdkM3B3OHkwODZ5MWl2YXZoZW02ZXZ0dGswZ2JtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8EdwsSchNskePgRqUS/giphy.gif" alt="GIF do projeto" width="360">
-      </a>
-    </td>
-    <td style="vertical-align: top; padding-left: 20px;">
-      <h3>Projeto CRUD Musicas JAVA+ANGULAR </h3>
-      <p>🔹 Esse projeto é um serviço RESTful para gerenciamento de musicas, permitindo executar operações de CRUD (Create, Read, Update, Delete) de forma organizada e documentada com Swagger. Uma API em Java + front em Angular .</p>
-      <p>🔗 <strong>GitHub:</strong><br/>
-        <a href="https://github.com/KaioMuniz/projetoCrudAngularFinalDeSemana01">projetoCrudAngularFinalDeSemana01</a><br/>
-        <a href="https://github.com/KaioMuniz/projetoCrudJavaFinalDeSemana01">projetoCrudJavaFinalDeSemana01</a><br/>
+      <a href="https://github.com/KaioMuniz/projetosNaoRelevantes">projetosNaoRelevantes</a></p>
     </td>
   </tr>
 </table>
