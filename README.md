@@ -213,7 +213,7 @@ O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao 
   <tr>
     <td>
       <a href="#">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTFpNnJ5bTVlazJkc2JoOWMyazBlc2tueXd3NTE1dWFxMHpwaXZ2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4jgZoq3byCoO9wFmH7/giphy.gif" alt="GIF do projeto" width="360">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2l6b2l6OW8zZzc1ajMybGZ3NzlxcW41d3pjNTB3cXk5c3Z5ZDRkeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/89WGulO5u92IIh2rnU/giphy.gif" alt="GIF do projeto" width="360">
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
