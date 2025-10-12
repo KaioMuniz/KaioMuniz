@@ -25,10 +25,6 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 
 
 
-<a href="https://github.com/KaioMuniz/trajetoriaKaio" target="_blank" class="link-button">
-    📌 Ver minha trajetória profissional e acadêmica
-</a>
-
 
 ### 🎓 Formação Acadêmica:
 - **Graduação em Análise e Desenvolvimento de Sistemas (ADS)** pela **Estácio** com especialização em **Análise de Software Full Stack**.
