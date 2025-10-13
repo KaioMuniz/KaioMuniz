@@ -77,7 +77,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
         <a href="https://github.com/joaomarqu3ss">Github: joaomarqu3ss</a>
       </p>
    <p>📹 <strong>Vídeo explicando:</strong><br/>
-        <a href="">https://youtu.be/a5LQhYKkElM</a>
+        <a href="https://www.youtube.com/watch?v=YYxlnzZ-ZS0&t=2431s">https://www.youtube.com/watch?v=YYxlnzZ-ZS0&t=2431s</a>
       </p>
       </p>
       <p>🔗 <strong>GitHub:(privado)</strong><br/>
