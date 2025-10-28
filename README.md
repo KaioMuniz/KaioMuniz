@@ -70,10 +70,9 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>O Pai De Pet</h3>
       <p>
-      <p>🔹O Pai De Pet é mais do que um app: é um observador e narrador inteligente de tudo que o seu cachorro faz</p>
-        <p> 🔹O projeto foi desenvolvida em Java, Angular e Python,utilizando uma api de stream de video em tempo real para conectar qualquer camera de seguranca, ela captura frames das acoes e aprende utilizando machinilearn aprende quais as acoes feitas pelo cachorro. </p>
-         <p>🔹O app, tem como objetivo adestrar seu cachorro de forma automatica, integrando com um recompensador.</p>
-          <p>🔹O app, tem como objetivo tambem indentificador doenças no seu cachorro de forma automatica, por meio dos seus padroes, com pouca ingesto de agua e alimento ou até dificuldade nas necessidades.</p>
+      <p>🔹 **Pai de Pet** é mais do que um app: é um observador inteligente que narra tudo o que seu cachorro faz.</p> 
+      <p>🔹 Desenvolvido em **Java**, **Angular** e **Python**, o projeto usa uma API de streaming de vídeo para conectar câmeras de segurança, capturando frames das ações do cachorro e aprendendo com **Machine Learning**.</p> 
+      <p>🔹 O app automatiza o adestramento do cachorro, integrando um sistema de recompensas, e também identifica possíveis problemas de saúde, como ingestão inadequada de água ou alimentos e dificuldades nas necessidades.</p>
              <p>👥 <strong>Contribuidores:</strong><br/></p>
         <a href="https://github.com/RobertPorteles">Github: RobertPorteles</a><br/>
         <a href="https://github.com/joaomarqu3ss">Github: joaomarqu3ss</a>
@@ -103,7 +102,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 </p>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <h3>O Peskaio</h3>
+      <h3>O Peixe kaio</h3>
       <p>
       <p>🔹O Peixe kaio é mais do que um app: é um mapa de pesca inteligente e uma rede social para pescadores.</p>
         <p> 🔹O projeto foi desenvolvida em Java e Angular, utilizando Google Maps para o orquestramento dos pontos de pesca e Google API para login.</p>
