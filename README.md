@@ -69,10 +69,10 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>O Pai De Pet</h3>
       <p>
-        🔹 **Pai de Pet** é mais do que um app: é um observador inteligente que narra tudo o que seu cachorro faz.
+        🔹 Pai de Pet é mais do que um app: é um observador inteligente que narra tudo o que seu cachorro faz.
       </p>
       <p>
-        🔹 Desenvolvido em **Java**, **Angular** e **Python**, o projeto usa uma **API de streaming de vídeo** para conectar câmeras de segurança, capturando frames das ações do cachorro e aprendendo com **Machine Learning**.
+        🔹 Desenvolvido em Java, Angular e Python, o projeto usa uma API de streaming de vídeo para conectar câmeras de segurança, capturando frames das ações do cachorro e aprendendo com Machine Learning.
       </p>
       <p>
         🔹 O app automatiza o adestramento do cachorro, integrando um sistema de recompensas, e também identifica possíveis problemas de saúde, como ingestão inadequada de água ou alimentos e dificuldades nas necessidades.
