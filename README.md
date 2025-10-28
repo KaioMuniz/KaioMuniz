@@ -56,35 +56,44 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 <table>
   <tr>
     <td>
-       <a href="#">
-        <img width="1280" height="720" alt="Miniatura do youtube como gravar vídeo moderno em amarelo e branco" src="https://github.com/user-attachments/assets/4a45abe9-6cc4-49c2-a8c6-4040989ec514" />
-      </a>
-   <p align="center">
-
-  <img src="" 
-       alt="" 
-       width="360"
-       style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
-</p>
+      <!-- Adicionando as imagens -->
+      <img src="https://github.com/user-attachments/assets/4a45abe9-6cc4-49c2-a8c6-4040989ec514" 
+           alt="Imagem 1" 
+           width="360"
+           style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+      <img src="https://github.com/user-attachments/assets/3f63dc6a-82cc-47c4-9277-b5a7b7d73121" 
+           alt="Imagem 2" 
+           width="360"
+           style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>O Pai De Pet</h3>
       <p>
-      <p>🔹 **Pai de Pet** é mais do que um app: é um observador inteligente que narra tudo o que seu cachorro faz.</p> 
-      <p>🔹 Desenvolvido em **Java**, **Angular** e **Python**, o projeto usa uma API de streaming de vídeo para conectar câmeras de segurança, capturando frames das ações do cachorro e aprendendo com **Machine Learning**.</p> 
-      <p>🔹 O app automatiza o adestramento do cachorro, integrando um sistema de recompensas, e também identifica possíveis problemas de saúde, como ingestão inadequada de água ou alimentos e dificuldades nas necessidades.</p>
-             <p>👥 <strong>Contribuidores:</strong><br/></p>
-        <a href="https://github.com/RobertPorteles">Github: RobertPorteles</a><br/>
-        <a href="https://github.com/joaomarqu3ss">Github: joaomarqu3ss</a>
+        🔹 **Pai de Pet** é mais do que um app: é um observador inteligente que narra tudo o que seu cachorro faz.
       </p>
-   <p>📹 <strong>Vídeo explicando:</strong><br/>
-        <a href="https://www.youtube.com/watch?v=YYxlnzZ-ZS0&t=2431s">https://www.youtube.com/watch?v=YYxlnzZ-ZS0&t=2431s</a>
+      <p>
+        🔹 Desenvolvido em **Java**, **Angular** e **Python**, o projeto usa uma **API de streaming de vídeo** para conectar câmeras de segurança, capturando frames das ações do cachorro e aprendendo com **Machine Learning**.
       </p>
+      <p>
+        🔹 O app automatiza o adestramento do cachorro, integrando um sistema de recompensas, e também identifica possíveis problemas de saúde, como ingestão inadequada de água ou alimentos e dificuldades nas necessidades.
       </p>
-      <p>🔗 <strong>GitHub:(privado)</strong><br/>
+      <p>
+        👥 <strong>Contribuidores:</strong><br/>
+        <a href="https://github.com/RobertPorteles">GitHub: RobertPorteles</a><br/>
+        <a href="https://github.com/joaomarqu3ss">GitHub: joaomarqu3ss</a>
+      </p>
+      <p>
+        📹 <strong>Vídeo explicando:</strong><br/>
+        <a href="https://www.youtube.com/watch?v=YYxlnzZ-ZS0&t=2431s">Assista no YouTube</a>
+      </p>
+      <p>
+        🔗 <strong>GitHub (privado):</strong><br/>
+        <a href="#">Repositório do projeto (privado)</a>
+      </p>
     </td>
   </tr>
 </table>
+
 
 
 
