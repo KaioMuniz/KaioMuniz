@@ -65,6 +65,10 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
            alt="Imagem 2" 
            width="360"
            style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+           <img src="https://github.com/user-attachments/assets/b427553b-d76e-4c83-8d01-3cc6abd13cde" 
+           alt="Imagem 2" 
+           width="360"
+           style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>O Pai De Pet</h3>
