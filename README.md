@@ -50,7 +50,43 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
   Uma abordagem para desenvolver software focado no domínio do negócio.
 
 
-## Startup : Empresa Emergente 
+## Programa Startup
+
+
+<table>
+  <tr>
+    <td>
+       <a href="#">
+        <img width="1280" height="720" alt="Miniatura do youtube como gravar vídeo moderno em amarelo e branco" src="https://github.com/user-attachments/assets/4a45abe9-6cc4-49c2-a8c6-4040989ec514" />
+      </a>
+   <p align="center">
+
+  <img src="" 
+       alt="" 
+       width="360"
+       style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+</p>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <h3>O Pai De Pet</h3>
+      <p>
+      <p>🔹O Pai De Pet é mais do que um app: é um observador e narrador inteligente de tudo que o seu cachorro faz</p>
+        <p> 🔹O projeto foi desenvolvida em Java, Angular e Python,utilizando uma api de stream de video em tempo real para conectar qualquer camera de seguranca, ela captura frames das acoes e aprende utilizando machinilearn aprende quais as acoes feitas pelo cachorro. </p>
+         <p>🔹O app, tem como objetivo adestrar seu cachorro de forma automatica, integrando com um recompensador.</p>
+          <p>🔹O app, tem como objetivo tambem indentificador doenças no seu cachorro de forma automatica, por meio dos seus padroes, com pouca ingesto de agua e alimento ou até dificuldade nas necessidades.</p>
+             <p>👥 <strong>Contribuidores:</strong><br/></p>
+        <a href="https://github.com/RobertPorteles">Github: RobertPorteles</a><br/>
+        <a href="https://github.com/joaomarqu3ss">Github: joaomarqu3ss</a>
+      </p>
+   <p>📹 <strong>Vídeo explicando:</strong><br/>
+        <a href="https://www.youtube.com/watch?v=YYxlnzZ-ZS0&t=2431s">https://www.youtube.com/watch?v=YYxlnzZ-ZS0&t=2431s</a>
+      </p>
+      </p>
+      <p>🔗 <strong>GitHub:(privado)</strong><br/>
+    </td>
+  </tr>
+</table>
+
 
 
 <table>
@@ -69,7 +105,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>O Peskaio</h3>
       <p>
-      <p>🔹O Peskaio é mais do que um app: é um mapa de pesca inteligente e uma rede social para pescadores.</p>
+      <p>🔹O Peixe kaio é mais do que um app: é um mapa de pesca inteligente e uma rede social para pescadores.</p>
         <p> 🔹O projeto foi desenvolvida em Java e Angular, utilizando Google Maps para o orquestramento dos pontos de pesca e Google API para login.</p>
          <p>🔹Projeto em andamento, procurando investidores.</p>
              <p>👥 <strong>Contribuidores:</strong><br/></p>
@@ -87,7 +123,6 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
     </td>
   </tr>
 </table>
-
 
 
 
