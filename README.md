@@ -58,37 +58,43 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
     <td>
       <!-- Adicionando as imagens -->
       <p align="center"> 
-        <img src="https://github.com/user-attachments/assets/4a45abe9-6cc4-49c2-a8c6-4040989ec514" alt="Imagem 1" width="360" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"> </p> <p align="center"> 
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhlbTliamtsczRrcnhqZWs1NWtubHdlcW45MGx6ZmR0OXl6cnNxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pffB6dVlKd1rio72rW/giphy.gif" alt="Imagem 2" width="360" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"> </p> <p align="center"> 
-        <img src="https://github.com/user-attachments/assets/b427553b-d76e-4c83-8d01-3cc6abd13cde" alt="Imagem 3" width="360" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"> </p>
+        <img src="https://github.com/user-attachments/assets/4a45abe9-6cc4-49c2-a8c6-4040989ec514" 
+             alt="Imagem 1" 
+             width="360" 
+             style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+      </p>
+      <p align="center"> 
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhlbTliamtsczRrcnhqZWs1NWtubHdlcW45MGx6ZmR0OXl6cnNxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pffB6dVlKd1rio72rW/giphy.gif" 
+             alt="Imagem 2" 
+             width="360" 
+             style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+      </p>
+      <p align="center"> 
+        <img src="https://github.com/user-attachments/assets/b427553b-d76e-4c83-8d01-3cc6abd13cde" 
+             alt="Imagem 3" 
+             width="360" 
+             style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+      </p>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
-      <h3>O Pai De Pet</h3>
-      <p>
-        🔹 Pai de Pet é mais do que um app: é um observador inteligente que narra tudo o que seu cachorro faz.
-      </p>
-      <p>
-        🔹 Desenvolvido em Java, Angular e Python, o projeto usa uma API de streaming de vídeo para conectar câmeras de segurança, capturando frames das ações do cachorro e aprendendo com Machine Learning.
-      </p>
-      <p>
-        🔹 O app automatiza o adestramento do cachorro, integrando um sistema de recompensas, e também identifica possíveis problemas de saúde, como ingestão inadequada de água ou alimentos e dificuldades nas necessidades.
-      </p>
-      <p>
-        👥 <strong>Contribuidores:</strong><br/>
+      <h3>O Pai de Pet</h3>
+      <p>🔹 Pai de Pet é mais do que um app: é um observador inteligente que narra tudo o que seu cachorro faz.</p>
+      <p>🔹 Desenvolvido em Java, Angular e Python, o projeto usa uma API de streaming de vídeo para conectar câmeras de segurança, capturando frames das ações do cachorro e aprendendo com Machine Learning.</p>
+      <p>🔹 O app automatiza o adestramento do cachorro, integrando um sistema de recompensas, e também identifica possíveis problemas de saúde, como ingestão inadequada de água ou alimentos e dificuldades nas necessidades.</p>
+      <p>👥 <strong>Contribuidores:</strong><br/>
         <a href="https://github.com/RobertPorteles">GitHub: RobertPorteles</a><br/>
         <a href="https://github.com/joaomarqu3ss">GitHub: joaomarqu3ss</a>
       </p>
-      <p>
-        📹 <strong>Vídeo explicando:</strong><br/>
-        <a href="https://www.youtube.com/watch?v=YYxlnzZ-ZS0&t=2431s">Assista no YouTube</a>
+      <p>📹 <strong>Vídeo explicando:</strong><br/>
+        <a href="https://youtu.be/W82LZ2Ct4Ts">https://youtu.be/W82LZ2Ct4Ts</a>
       </p>
-      <p>
-        🔗 <strong>GitHub (privado):</strong><br/>
+      <p>🔗 <strong>GitHub (privado):</strong><br/>
         <a href="#">Repositório do projeto (privado)</a>
       </p>
     </td>
   </tr>
 </table>
+
 
 
 
