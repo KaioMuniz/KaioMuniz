@@ -61,7 +61,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
            alt="Imagem 1" 
            width="360"
            style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
-      <img src="https://github.com/user-attachments/assets/3f63dc6a-82cc-47c4-9277-b5a7b7d73121" 
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhlbTliamtsczRrcnhqZWs1NWtubHdlcW45MGx6ZmR0OXl6cnNxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pffB6dVlKd1rio72rW/giphy.gif" 
            alt="Imagem 2" 
            width="360"
            style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
