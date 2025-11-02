@@ -57,18 +57,10 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
   <tr>
     <td>
       <!-- Adicionando as imagens -->
-      <img src="https://github.com/user-attachments/assets/4a45abe9-6cc4-49c2-a8c6-4040989ec514" 
-           alt="Imagem 1" 
-           width="360"
-           style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhlbTliamtsczRrcnhqZWs1NWtubHdlcW45MGx6ZmR0OXl6cnNxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pffB6dVlKd1rio72rW/giphy.gif" 
-           alt="Imagem 2" 
-           width="360"
-           style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
-           <img src="https://github.com/user-attachments/assets/b427553b-d76e-4c83-8d01-3cc6abd13cde" 
-           alt="Imagem 2" 
-           width="360"
-           style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);">
+      <p align="center"> 
+        <img src="https://github.com/user-attachments/assets/4a45abe9-6cc4-49c2-a8c6-4040989ec514" alt="Imagem 1" width="360" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"> </p> <p align="center"> 
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhlbTliamtsczRrcnhqZWs1NWtubHdlcW45MGx6ZmR0OXl6cnNxbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pffB6dVlKd1rio72rW/giphy.gif" alt="Imagem 2" width="360" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"> </p> <p align="center"> 
+        <img src="https://github.com/user-attachments/assets/b427553b-d76e-4c83-8d01-3cc6abd13cde" alt="Imagem 3" width="360" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.2);"> </p>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
       <h3>O Pai De Pet</h3>
