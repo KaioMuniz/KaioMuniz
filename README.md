@@ -85,8 +85,9 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
         <a href="https://github.com/RobertPorteles">GitHub: RobertPorteles</a><br/>
         <a href="https://github.com/joaomarqu3ss">GitHub: joaomarqu3ss</a>
       </p>
-      <p>📹 <strong>Vídeo explicando:</strong><br/>
-        <a href="https://youtu.be/W82LZ2Ct4Ts">https://youtu.be/W82LZ2Ct4Ts</a>
+      <p>📹 <strong>Série de Vídeos:</strong><br/>
+  <a href="https://www.youtube.com/watch?v=W82LZ2Ct4Ts&t=2s" target="_blank">Episódio 1</a><br/>
+  <a href="https://www.youtube.com/watch?v=nMeT9eHnzzU" target="_blank">Episódio 2</a>
       </p>
       <p>🔗 <strong>GitHub (privado):</strong><br/>
         <a href="#">Repositório do projeto (privado)</a>
