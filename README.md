@@ -137,6 +137,29 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
 
 
 
+<table>
+  <tr>
+    <td>
+      <a href="#">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxvdGljZGtvdTFiejVwOTl2YW8wdGw0N3A5cnhoaGw4eGZzcHNhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pHDzlGg4h6LVj7nTtD/giphy.gif" alt="Assista ao vídeo" width="360">
+      </a>
+      <a href="#">
+        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxvdGljZGtvdTFiejVwOTl2YW8wdGw0N3A5cnhoaGw4eGZzcHNhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pHDzlGg4h6LVj7nTtD/giphy.gif" alt="Assista ao vídeo" width="360">
+      </a>
+    </td>
+    <td style="vertical-align: top; padding-left: 20px;">
+      <h3>Demonstração de Site – Casas de Temporada</h3>
+      <p>🔹 Desenvolvi esta demonstração de site para um cliente do ramo de locação de imóveis por temporada.  
+O objetivo era apresentar um exemplo simples de layout para divulgação das 9 casas que ele possui para alugar.</p>
+      <p>🔹 Com base nesse protótipo, o cliente conseguiu visualizar a proposta de forma clara e decidiu fechar o projeto completo.</p>
+      <p>🔹 Projeto feito em Angular 20.</p>
+      <p>🔗 <strong>GitHub:</strong><br/>
+      <a href="https://github.com/KaioMuniz/ProjetoCasaAlugadaDoLeo">ProjetoCasaAlugadaDoLeo</a><br/>
+    </td>
+  </tr>
+</table>
+
+
 
 ## Projetos RELEVANTES  
 
