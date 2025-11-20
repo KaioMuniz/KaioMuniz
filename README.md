@@ -144,7 +144,7 @@ Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas
         <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxvdGljZGtvdTFiejVwOTl2YW8wdGw0N3A5cnhoaGw4eGZzcHNhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pHDzlGg4h6LVj7nTtD/giphy.gif" alt="Assista ao vídeo" width="360">
       </a>
       <a href="#">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmxvdGljZGtvdTFiejVwOTl2YW8wdGw0N3A5cnhoaGw4eGZzcHNhbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pHDzlGg4h6LVj7nTtD/giphy.gif" alt="Assista ao vídeo" width="360">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2xlcHJoam90OHEyNmx6NXY4eWw1ODIxanU2MWhvbmJsdG1jNTdqOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zbAjofERkgXBlLHfNP/giphy.gif" alt="Assista ao vídeo" width="360">
       </a>
     </td>
     <td style="vertical-align: top; padding-left: 20px;">
