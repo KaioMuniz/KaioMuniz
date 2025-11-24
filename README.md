@@ -8,31 +8,14 @@
 
 Antes de entrar na área de TI, fui Pescador, Arraias Amador e Motonauta. Em 2021, decidi que queria ser programador e vendi meu barco para focar 100% nos estudos. Meses depois, conquistei minha primeira vaga e desde então, venho desenvolvendo soluções que tornam o acesso ao mundo dev mais simples.
 
+Desenvolvedor Full Stack com 1,5 anos de experiência, atuei em sistemas corporativos utilizando Java 8 e 21, atendendo clientes dos setores público e de energia. Possuo expertise em deploy na Azure e AWS com pipelines de CI/CD. Tenho experiência como freelancer, resolvendo problemas com machine learning utilizando Python, além de Angular 16/17/20/22 e Java 21/25. Sou formado em Análise e Desenvolvimento de Sistemas, com curso de formação complementar em Java e Angular. Tenho conhecimentos intermediários em Python e domínio pleno em lógica de programação com C++, JavaScript e Java.
+Comprometido com boas práticas de desenvolvimento (Clean Code, TDD, DDD).
 
+Atualmente, com inglês em nível intermediário.
 
-### 🌟 **Experiência Profissional**  
+Sou fundador do Programa Startup, uma comunidade de desenvolvedores e canal no YouTube com quase 10 mil inscritos. Profissional com forte capacidade de comunicação, participativo e colaborativo. 
 
-Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas seguintes áreas:  
-
-- **Back-end**: Java (8 ao 21), Spring Framework (Boot, MVC, Security, Data, Cloud, AOP), JPA/Hibernate, Servidores de Aplicação (JBoss, Tomcat).  
-- **Front-end**: Angular, TypeScript, HTML5, CSS3.  
-- **Bancos de Dados**: SQL (PostgreSQL, MySQL, SQL Server) e NoSQL (MongoDB).  
-- **Autenticação & Autorização**: Spring Security, JWT, OAuth 2.0.  
-- **Mensageria**: RabbitMQ, Kafka.  
-- **Testes & Qualidade**: JUnit, Mockito, Postman, Testes Unitários e de Integração.  
-- **DevOps & Infraestrutura**: Docker, CI/CD (GitHub Actions, Azure DevOps), Cloud (AWS, Azure), Git, GitHub, Maven, Railway.  
-- **Metodologias e Ferramentas de Gestão**: Ágil (Scrum, Kanban), Redmine, Azure DevOps.  
-
-
-
-
-### 🎓 Formação Acadêmica:
-- **Graduação em Análise e Desenvolvimento de Sistemas (ADS)** pela **Estácio** com especialização em **Análise de Software Full Stack**.
-- **Curso Java Web Developer - Formação FullStack** na **COTI INFORMATICA**, com especialização em **Desenvolvimento de Software Full Stack**.
-
-
-🌍 **Nível de Inglês**:  
-- **Nível Técnico**: Habilidade para ler e compreender documentação técnica.  
+Buscando me destacar como um profissional completo e eficiente.
 
 
 ### 📚 **Minhas Referências de Livros**:
