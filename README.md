@@ -305,4 +305,3 @@ O fluxo é estruturado em esteira: candidatura → análise por IA → apoio ao 
 * **E-mail**: [Clique aqui para enviar um novo e-mail para mim!](https://mail.google.com/mail/?view=cm&fs=1&to=kkaioribeiro@gmail.com)
 * **WhatsApp**: [Estou a um clique de distância, vamos conversar!](https://wa.me/5521972345311)
 * 📄 **Fique à vontade para conferir meu currículo em PDF: [Acesse aqui!](https://github.com/KaioMuniz/kaioCurriculum/blob/main/Kaio_Muniz_Junior_Curriculo_FullStack.pdf)**
-* 📄 **Ou em docx: [Acesse aqui!](https://github.com/KaioMuniz/kaioCurriculum/blob/main/Kaio_Muniz_Junior_Curriculo_FullStack.docx)**
