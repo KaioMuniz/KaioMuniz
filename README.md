@@ -5,23 +5,27 @@
   />
 </p>
 
-<p>Antes de entrar na área de TI, fui Pescador, Arraias Amador e Motonauta. Em 2021, decidi que queria ser programador e vendi meu barco para focar 100% nos estudos. Meses depois, conquistei minha primeira vaga e desde então, venho desenvolvendo soluções que tornam o acesso ao mundo dev mais simples.</p>
+<p>Antes de entrar na área de TI, fui Pescador, Arrais Amador e Motonauta. Em 2021, decidi que queria ser programador e vendi meu barco para focar 100% nos estudos. Meses depois, conquistei minha primeira vaga e, desde então, venho desenvolvendo soluções que tornam o acesso ao mundo dev mais simples.</p>
 
-Atualmente, como **Desenvolvedor Java** e **Full-Stack**, tenho experiência nas seguintes áreas:  
+<p>Sou <strong>Desenvolvedor Full Stack</strong> com 3 anos de experiência em desenvolvimento de sistemas corporativos, atuando com <strong>Java, Spring Boot, Angular, microsserviços e APIs REST</strong>. Possuo experiência com Docker, pipelines CI/CD e deploy em ambientes AWS e Microsoft Azure, além de bancos de dados SQL e NoSQL.</p>
 
-- **Back-end**: Java (8 ao 21), Spring Framework (Boot, MVC, Security, Data, Cloud, AOP), JPA/Hibernate, Servidores de Aplicação (JBoss, Tomcat).  
-- **Front-end**: Angular, TypeScript, HTML5, CSS3.  
-- **Bancos de Dados**: SQL (PostgreSQL, MySQL, SQL Server) e NoSQL (MongoDB).  
-- **Autenticação & Autorização**: Spring Security, JWT, OAuth 2.0.  
-- **Mensageria**: RabbitMQ, Kafka.  
-- **Testes & Qualidade**: JUnit, Mockito, Postman, Testes Unitários e de Integração.  
-- **DevOps & Infraestrutura**: Docker, CI/CD (GitHub Actions, Azure DevOps), Cloud (AWS, Azure), Git, GitHub, Maven, Railway.  
-- **Metodologias e Ferramentas de Gestão**: Ágil (Scrum, Kanban), Redmine, Azure DevOps.  
+<p>No meu emprego atual, na <strong>VibeTex</strong>, atuo em projetos para a <strong>ANTT (Agência Nacional de Transportes Terrestres)</strong>, incluindo participação na gestão do projeto Hub de Autenticação, além do desenvolvimento de sistemas de controle de ponto.</p>
+
+<p>Também atuei, em parceria com o <strong>Grupo Positiva</strong>, no desenvolvimento de uma solução para monitoramento de computadores em tempo real e participei da construção do <strong>IPG (Inspeção Periódica de Gás)</strong> para a Naturgy.</p>
 
 
 ### 🎓 Formação Acadêmica:
-- **Graduação em Análise e Desenvolvimento de Sistemas (ADS)** pela **Estácio** com especialização em **Análise de Software Full Stack**.
-- **Curso Java Web Developer - Formação FullStack** na **COTI INFORMATICA**, com especialização em **Desenvolvimento de Software Full Stack**.
+- **Graduação em Análise e Desenvolvimento de Sistemas (ADS)** pela **Estácio de Sá** (2022 – 2025), com ênfase em **Análise de Sistemas**.
+
+###  Cursos Complementares:
+- **Java Web Developer Full Stack** na **COTI INFORMÁTICA**, curso presencial de 96 horas (2025/2026).
+- **AWS na Prática: Do Zero à Nuvem** na **COTI INFORMÁTICA**, curso presencial de 32 horas (2026).
+- **Lógica de Programação em JavaScript** na **COTI INFORMÁTICA**, curso presencial de 40 horas (2026).
+- **Inglês Técnico** pela **Estácio de Sá**.
+
+###  Cursos Inscritos para 2027:
+- **Arquiteto de Inteligência Artificial com Java** na **COTI INFORMÁTICA**, curso presencial de 20 horas (2027).
+- **Análise de Dados com Power BI** na **COTI INFORMÁTICA**, curso presencial de 24 horas (2027).
 
 
 🌍 **Nível de Inglês**:  
